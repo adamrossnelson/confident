@@ -4,13 +4,43 @@
 
 A repository to provide additional references related to Confident Data Science (Nelson, 2023).
 
-# Data
+# Shipping + Mailing Data
 
 If you are here looking for the data introduced in *Confident Data Science* look in the data subfolder where you will find the following files:
 
 - [confident_ch6.csv](/data/confident_ch6.csv) - A CSV version of the shipping + mailing data shown in Chapter 6.
 - [confident_ch6.html](/data/confident_ch6.html) - An HTML version of the shipping + mailing data shown in Chapter 6.
 - [confident_ch6.dta](/data/confident_ch6.dta) - A Stata version of the shipping + mailing data shown in Chapter 6.
+
+To load these data in a single line of code:
+
+**Python + Pandas**
+```Python
+# Specify file location, path, and name
+location = 'https://raw.githubusercontent.com/'
+path = 'adamrossnelson/confident/main/data/'
+name = 'confident_ch6'
+
+# Load the csv file into a Pandas df
+df = pd.read_csv(location + path + name + '.csv')
+# Load the html file into a Pandas df
+df = pd.read_csv(location + path + name + '.html')[0]
+# Load the Sta file into a Pandas df
+df = pd.read_csv(location + path + name + '.dta')
+```
+
+**R / R Studio**
+```R
+# Specify file location, path, and name
+location <- "https://raw.githubusercontent.com/"
+path <- "adamrossnelson/confident/main/data/"
+name <- "confident_ch6"
+
+# Load the CSV file into a dataframe
+csv_url <- paste0(location, path, name, ".csv")
+csv_data <- read.csv(csv_url)
+
+```
 
 # Notebooks
 
