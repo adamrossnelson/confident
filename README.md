@@ -1,4 +1,4 @@
-<img src="images/CONFIDENT DATA SCIENCE.png" alt="An image that reads Confident Data Science: The Essential Skills of Data Science, Companion Jupyter Notebook + Coding Examples. Also shows book image."/>
+<img src="images/CONFIDENTDATASCIENCE.png" alt="An image that reads Confident Data Science: The Essential Skills of Data Science, Companion Jupyter Notebook + Coding Examples. Also shows book image."/>
 
 # Confident Data Science: Discovering The Essential Skills of Data Science
 
