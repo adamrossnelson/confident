@@ -4,6 +4,17 @@
 
 A repository to provide additional references related to Confident Data Science (Nelson, 2023).
 
+# Notebooks
+
+If you are here in search of the companion Jupyter notebooks and coding examples look in the notebooks subfoler where you will find the following:
+
+- [Confidend Data Chapter 5 Notebook](/notebooks/Confident%20Data%20Chapter%2005.ipynb) Data Exploration
+- [Confidend Data Chapter 6 Notebook](/notebooks/Confident%20Data%20Chapter%2006.ipynb) Data Manipulation + Preparation
+- [Confidend Data Chapter 8 Notebook](/notebooks/Confident%20Data%20Chapter%2008.ipynb) One Weekend Crash Course
+- [Confidend Data Chapter 9 Notebook](/notebooks/Confident%20Data%20Chapter%2009.ipynb) Data (As Tool)
+- [Confidend Data Chapter 10 Notebook](/notebooks/Confident%20Data%20Chapter%2010.ipynb) Data Visualization
+- [Confidend Data Chapter 11 Notebook](/notebooks/Confident%20Data%20Chapter%2011.ipynb) Business Value + Clients
+
 # Shipping + Mailing Data
 
 If you are here looking for the data introduced in *Confident Data Science* look in the data subfolder where you will find the following files:
@@ -25,7 +36,7 @@ name = 'confident_ch6'
 df = pd.read_csv(location + path + name + '.csv')
 # Load the html file into a Pandas df
 df = pd.read_csv(location + path + name + '.html')[0]
-# Load the Sta file into a Pandas df
+# Load the Stata file into a Pandas df
 df = pd.read_csv(location + path + name + '.dta')
 ```
 
@@ -41,18 +52,6 @@ csv_url <- paste0(location, path, name, ".csv")
 csv_data <- read.csv(csv_url)
 
 ```
-
-# Notebooks
-
-If you are here in search of the companion Jupyter notebooks and coding examples look in the notebooks subfoler where you will find the following:
-
-- [Confidend Data Chapter 5 Notebook](/notebooks/Confident%20Data%20Chapter%2005.ipynb) Data Exploration
-- [Confidend Data Chapter 6 Notebook](/notebooks/Confident%20Data%20Chapter%2006.ipynb) Data Manipulation + Preparation
-- [Confidend Data Chapter 8 Notebook](/notebooks/Confident%20Data%20Chapter%2008.ipynb) One Weekend Crash Course
-- [Confidend Data Chapter 9 Notebook](/notebooks/Confident%20Data%20Chapter%2009.ipynb) Data (As Tool)
-- [Confidend Data Chapter 10 Notebook](/notebooks/Confident%20Data%20Chapter%2010.ipynb) Data Visualization
-- [Confidend Data Chapter 11 Notebook](/notebooks/Confident%20Data%20Chapter%2011.ipynb) Business Value + Clients
-
 
 # References
 
