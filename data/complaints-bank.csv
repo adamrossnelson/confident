@@ -1,0 +1,889 @@
+CustomerID,Product,Date,Complaint,Language,Days_To_Resolve,Origin,NPS Response,Name,Address,Prompt,Sequence,Model
+1001,web branch,2023-06-01,"I've been unable to access the web branch for two days now, even though my internet connection is stable. This has prevented me from checking my account balance and transferring funds.",English,1.874867119780207,Telephone,7,Taylor Garcia,"47937 Charles Lights
+Vincentmouth, NH 90052","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1002,atm,2023-06-03,"Yesterday, I tried to withdraw money from the ATM at the downtown branch, but it kept giving me an error message. This was highly inconvenient as I needed the cash urgently.",English,1.7602392925783759,Telephone,5,Eddie Suarez,"Unit 3225 Box 9783
+DPO AP 84590","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1003,checking,2023-06-04,I recently noticed that my checking account has been charged with fees that were not mentioned when I opened the account. I feel that this is unfair and not transparent.,English,1.724770170977344,Telephone,2,Nancy Singleton,"006 Gonzalez Plains
+South Stephanieview, PA 84040","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1004,bill pay,2023-06-05,"The bill pay feature has not been working correctly. I've attempted to pay my utilities bills three times this week, each time it says the payment is successful but the money hasn't been debited from my account.",English,1.7455079877140613,Telephone,7,Sean Wade,"95676 Hansen Islands Apt. 611
+South Alyssa, ID 08966","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1005,credit or debit card,2023-06-07,I requested a replacement for my damaged debit card weeks ago and have yet to receive the new card. This has left me unable to access my funds easily.,English,1.7362731260647386,Telephone,7,Thomas Mcclure,"54422 Joanne Canyon
+Christinaborough, NE 89921","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1006,other,2023-06-08,"I visited your branch to open a savings account, but the staff was not helpful and seemed uninterested. This kind of service is not acceptable.",English,2.230748104111656,Telephone,7,Catherine Davies,"839 Victoria Spur Suite 501
+Lewisland, WV 04256","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1007,web branch,2023-06-10,I am trying to apply for a loan through the web branch but the application process keeps timing out before I can finish it. This is quite frustrating.,English,2.187338365431674,Telephone,3,David Brooks,"7080 Flores Orchard Apt. 811
+North Ronald, MP 67874","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1008,atm,2023-06-12,The ATMs always seem to be out of service at your uptown branch. This is a recurring issue and needs to be addressed.,English,2.1608083023485425,Telephone,8,Todd Green,"7971 Cruz Roads
+Cindychester, FM 56827","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1009,checking,2023-06-14,"My checks are consistently being processed later than expected, causing me to pay late fees.",English,2.224953398032051,Telephone,8,Richard Moore,"30792 Allen Ridge
+Williamsbury, VI 09688","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1010,bill pay,2023-06-16,I am unable to set up recurring bill payments. I've followed the instructions on your website but the setup doesn't work.,English,1.7920787260391784,Telephone,5,Blake Henry,"220 Ethan Meadow
+Cummingsview, LA 11006","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1011,credit or debit card,2023-06-17,"The transaction limits on my credit card are too low. I've contacted customer service to have them raised, but no action has been taken.",English,1.7105752931476206,Telephone,7,Tyler Brown,"Unit 6948 Box 1187
+DPO AP 54737","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1012,other,2023-06-19,I've noticed some discrepancies in my monthly account statements. The interest earned on my deposits seems lower than the rate promised.,English,1.8256546112867156,Telephone,7,Nicole Villegas,"721 Michelle Forks Apt. 827
+Marissaport, SC 58594","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",1,Chat GPT 4.0
+1013,web branch,2023-06-21,"The web branch platform is not user-friendly. I had difficulty finding basic information, such as my account balance and transaction history.",English,1.9516855430646396,Telephone,8,Jennifer Watson,"Unit 5594 Box 1041
+DPO AE 47766",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1014,atm,2023-06-23,"I had an unpleasant experience at the ATM in the west branch. The machine was out of service, and there was no sign or notification.",English,1.5237841795985814,Telephone,7,Aaron Morgan MD,"80668 Rowland Junctions Suite 747
+Wilsonville, SD 64683",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1015,checking,2023-06-24,"The overdraft fees on my checking account are exorbitant. I was not aware of these when I opened the account, and they were not communicated to me clearly.",English,1.2461171791903054,Email,9,Miranda Gordon,"944 Wendy Unions
+Jamesview, OK 32832",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1016,bill pay,2023-06-25,"There have been errors in the bill pay service. It’s not showing my recent bill payments, causing confusion about which bills have been paid.",English,1.433196422443598,Telephone,1,Veronica Valencia,"994 Moore Forest Suite 785
+North Angelamouth, ME 41161",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1017,credit or debit card,2023-06-27,My credit card was blocked without any prior warning. This caused significant inconvenience during my recent travel.,English,1.4254165839772512,Telephone,4,Ashley Rubio,"69379 Bailey Streets
+Marychester, CA 31201",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1018,other,2023-06-28,"I wanted to inquire about the terms of a mortgage loan, but I couldn't get a clear answer from the customer service representative.",English,1.344206199111829,Telephone,9,Katherine Miller,"USNS Marshall
+FPO AE 73496",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1019,web branch,2023-06-30,"Web branch site frequently logs out during operation, especially during fund transfers. This makes me worried about the security of my transactions.",English,1.0510836913203827,Email,2,Richard Steele,"13296 Nolan Lights Apt. 916
+Lake Mary, SD 56248",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1020,atm,2023-07-02,"The ATM at the east branch frequently runs out of cash, especially during weekends. This is highly inconvenient for customers like me who rely on this ATM.",English,0.8679485068894298,SMS,8,Mrs. Elizabeth Gardner MD,"5150 Kimberly Courts Apt. 919
+Anthonyland, WY 04034",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1021,checking,2023-07-04,There's a direct debit set up on my checking account that I did not authorize. This is causing a lot of stress and inconvenience for me.,English,1.3376512479607576,SMS,4,Carrie Lowe MD,"PSC 4624, Box 2489
+APO AE 30617",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1022,bill pay,2023-07-06,"I tried to pay my phone bill through your bill pay service, but it kept failing. Now I'm at risk of late payment charges due to this issue.",English,1.2947481815209174,SMS,9,Lauren Khan,"139 Samantha Mission Apt. 654
+Hayleyview, TN 51632",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1023,credit or debit card,2023-07-07,"The contactless feature of my debit card stopped working all of a sudden, making it difficult for me to make payments at several places.",English,1.1674858115879476,SMS,4,Austin Wong,"24529 Jacob Square Suite 324
+South Edwardside, CO 97406",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1024,other,2023-07-09,The queue time for customer service is too long. I waited for 30 minutes to speak with a representative about an issue with my account.,English,1.1115163544979525,SMS,9,Laurie Simpson,"9910 Porter Meadow Apt. 878
+South Brian, IN 24712",Okay make another set of records in a new Python dictionary. New data. Same format.,2,Chat GPT 4.0
+1025,web branch,2023-07-11,The security questions for the web branch are extremely difficult to remember. I've been locked out of my account multiple times due to this.,English,1.332052310647492,Telephone,0,Theresa Butler,"181 Adrian Terrace
+West Nancybury, PA 33369",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1026,atm,2023-07-13,The ATM at the central branch doesn't accept deposits. This has caused me a lot of trouble as it's the only branch near my house.,English,2.3725124321917574,Telephone,8,Andrew Palmer,"22222 Alejandro Ridges
+Laurafurt, MP 83325",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1027,checking,2023-07-14,I'm not able to see the check images in my online checking account statement. This makes it hard for me to verify my transactions.,English,2.1504323947929453,Telephone,8,Kevin Christensen,"72183 Jose Stream Apt. 366
+Adamsville, RI 48436",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1028,bill pay,2023-07-15,The bill pay service is not updated with my new service providers. I'm unable to pay my bills conveniently due to this.,English,2.161165861995166,Telephone,7,Travis Allen,"5989 Charlotte Throughway
+West Brianshire, AL 20815",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1029,credit or debit card,2023-07-17,My debit card was suddenly declined at a store even though I have sufficient balance in my account. It was quite embarrassing.,English,2.3760932156570664,Telephone,6,Holly Powell,"0813 Chad Crossing Suite 335
+Scottfurt, LA 89928",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1030,other,2023-07-18,"The loan approval process is quite slow. It's been two weeks since I applied, and there has been no update from your side.",English,1.0393495497865732,Email,10,Tina Henderson,"3667 Myers Trail Apt. 360
+Jamesbury, WA 12922",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1031,web branch,2023-07-20,The web branch is not compatible with my browser. I'm forced to use a browser that I'm not comfortable with.,English,1.148180287252588,Telephone,5,Michele Jimenez,"75549 Reeves Fork
+Lake Richard, MS 81408",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1032,atm,2023-07-22,The ATM doesn't provide enough denomination options. It's hard to withdraw small amounts.,English,1.1145583942155184,Email,10,Robert Schneider,"USNV Wilson
+FPO AA 51411",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1033,checking,2023-07-24,My checking account balance doesn't update in real-time. It's causing confusion with my book-keeping.,English,1.0143029917954218,Telephone,8,Felicia Butler,"24990 Richard Ways Apt. 389
+Davidton, KS 60738",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1034,bill pay,2023-07-26,"The automatic bill pay option doesn't work correctly. It missed my last electricity bill, causing a late payment.",English,1.2719021972382905,Telephone,9,Jared Fowler,"253 Megan Views Apt. 683
+New George, AK 63327",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1035,credit or debit card,2023-07-27,I received a new credit card that I didn't apply for. This is concerning as I didn't request for a new card.,English,1.692254293219436,Telephone,8,Charles Davies,"1485 Jennifer Points Apt. 703
+Port Charlenefort, OK 79369",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1036,other,2023-07-29,The terms and conditions for your services are not clearly mentioned on your website. This leads to a lot of confusion and miscommunication.,English,1.694300516279249,Telephone,3,Sabrina Leon,"Unit 6759 Box 8638
+DPO AA 51882",For dataset3 make another set of records in a new Python dictionary. New data. Same format.,1,Chat GPT 4.0
+1037,web branch,2023-07-31,I keep getting logged out of the web branch in the middle of transactions. This makes it hard for me to trust the system with my banking.,English,1.5383499385435684,Telephone,6,Kenneth Villa,"77227 Joe Cove Suite 919
+New Sara, NV 85734","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1038,atm,2023-08-02,The ATM near my workplace is always out of order. It's very inconvenient when I need to get cash quickly during lunch breaks.,English,1.6940235707298625,Telephone,8,Peter Russell,"USNV Wilson
+FPO AA 86235","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1039,checking,2023-08-04,There is a check deposit in my checking account that I don't recognize. I've contacted the bank several times but haven't received any response.,English,2.0945377873572197,Telephone,6,Linda Jackson,"135 Stanley Villages
+West Taraborough, AL 64933","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1040,bill pay,2023-08-06,The bill pay feature isn't reflecting the payments I made towards my internet service provider. It's hard to keep track of paid and unpaid bills.,English,2.2292315188846703,Telephone,8,Kathy Diaz,"5687 Kathleen Village Suite 979
+Martinchester, MI 83509","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1041,credit or debit card,2023-08-08,My credit card is showing a fraudulent charge that I didn't make. I've reported it but the charge hasn't been reversed yet.,English,2.063620238071015,Telephone,3,Alexandra Smith,"0554 Cook Light Suite 417
+South Kevinchester, NC 12640","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1042,other,2023-08-10,Your customer service hold times are too long. I waited for 45 minutes last time to get assistance with a simple query.,English,2.0551469472595434,Telephone,7,Jennifer Crawford,"81345 Beltran Terrace Apt. 982
+Walkerstad, MI 57638","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1043,web branch,2023-08-12,The web branch doesn't have a user-friendly interface. It's hard to navigate and find the features I need.,English,2.5134579280555815,Telephone,2,Terri Gonzales,"587 Carey Locks
+Wrightview, NM 45216","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1044,atm,2023-08-14,I tried to deposit cash at an ATM but it was returned without any reason. It was frustrating as I had to then find another ATM.,English,2.3541860475951433,Telephone,5,Charles Collins,"7500 Kennedy Way
+North Garybury, OH 76560","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1045,checking,2023-08-16,The overdraft protection I opted for in my checking account doesn't seem to be active. I got charged an overdraft fee for my last transaction.,English,2.564466781534836,Telephone,5,Renee Bean,"77300 Shannon View Apt. 567
+West Richard, TX 27699","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1046,bill pay,2023-08-18,Bill pay doesn't provide an option to pay international bills. This is inconvenient for me as I have several overseas payments to make.,English,1.4894709671822355,Telephone,8,Sheila Roth,"8898 Robert Ramp
+Port Lori, PR 48326","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1047,credit or debit card,2023-08-20,I received a new debit card with a different card number without any prior information. This has messed up my auto-payments.,English,1.0866429720801496,Telephone,8,Morgan Roberts,"725 Mary Ports
+Lake Derekport, AZ 95315","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1048,other,2023-08-22,The staff at the downtown branch was rude and unhelpful when I visited to resolve a problem with my account.,English,1.606571516079498,Telephone,7,Lawrence Fleming,"680 Chan Valley
+Amandaport, MH 60788","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.",3,Chat GPT 4.0
+1049,web branch,2023-08-24,"La página web de la sucursal es muy lenta y se cuelga constantemente, dificultando la gestión de mis finanzas.",Spanish,1.5214247192367238,Telephone,8,Richard Garcia,"816 Bryan Forest Suite 534
+Emilybury, DE 45676",Make a fourth one now.,4,Chat GPT 4.0
+1050,atm,2023-08-26,El cajero automático de la sucursal cerca de mi casa siempre está fuera de servicio. Esto es extremadamente inconveniente.,Spanish,1.09615244582936,Telephone,0,Christine Jackson,"342 Austin Point
+Hensonton, MI 05442",Make a fourth one now.,4,Chat GPT 4.0
+1051,checking,2023-08-28,Las cargas que aparecen en mi cuenta corriente no son reconocibles. Necesito ayuda para entender estas transacciones.,Spanish,1.1061870770159352,SMS,4,Thomas Nguyen,"8364 Ellen Shoals
+South Kathryn, DC 42359",Make a fourth one now.,4,Chat GPT 4.0
+1052,bill pay,2023-08-30,El servicio de pago de facturas no refleja correctamente las facturas pagadas y pendientes. Esto me crea confusiones.,Spanish,1.067228507210608,SMS,4,Angelica York,"USS Ruiz
+FPO AA 18586",Make a fourth one now.,4,Chat GPT 4.0
+1053,credit or debit card,2023-09-01,Mi tarjeta de crédito muestra cargos que no reconocí. He intentado ponerme en contacto con el servicio al cliente pero no he recibido respuesta.,Spanish,1.0369186781040238,SMS,9,Bryan Gutierrez,"795 Timothy Fields
+Robinfurt, VI 84459",Make a fourth one now.,4,Chat GPT 4.0
+1054,other,2023-09-03,La información de mi cuenta no se actualiza correctamente en la sucursal online. Esto está afectando a mi capacidad para gestionar mis finanzas.,Spanish,0.9177929126728892,Email,3,Ryan Rivera,"05891 Joshua Hill
+East Scottburgh, MO 49394",Make a fourth one now.,4,Chat GPT 4.0
+1055,web branch,2023-09-05,No puedo depositar cheques a través de la sucursal web. Esto me está causando muchos inconvenientes.,Spanish,0.8683112267894955,Email,9,Robert Washington,"49255 Randall Orchard
+Garciaborough, WA 03070",Make a fourth one now.,4,Chat GPT 4.0
+1056,atm,2023-09-07,El cajero automático de la sucursal local no me permite realizar depósitos. Esto es especialmente frustrante.,Spanish,0.8875051975508991,SMS,8,Monique Rosario,"5119 Ingram Key Suite 371
+Johnbury, WA 32086",Make a fourth one now.,4,Chat GPT 4.0
+1057,checking,2023-09-09,Me cobraron por un cheque que tenía fondos suficientes en mi cuenta corriente. Me gustaría entender por qué sucedió esto.,Spanish,0.9970412627722504,Telephone,9,Christopher Frazier,"97329 Burke Street Apt. 524
+Michellefurt, MT 02108",Make a fourth one now.,4,Chat GPT 4.0
+1058,bill pay,2023-09-11,"Estoy intentando configurar pagos automáticos para mis facturas mensuales, pero el proceso es confuso y no funciona.",Spanish,1.0888267707999966,Email,9,Robert Holmes,"3113 Tanner Pike Apt. 596
+Lake Katrinachester, WY 17970",Make a fourth one now.,4,Chat GPT 4.0
+1059,credit or debit card,2023-09-13,"La fecha de vencimiento de mi tarjeta de débito está incorrecta, lo que me impide realizar transacciones online.",Spanish,1.0456954595146668,Telephone,4,Mr. Roger Carr,"12519 Clinton Knolls
+Veronicaborough, AK 16438",Make a fourth one now.,4,Chat GPT 4.0
+1060,other,2023-09-15,El servicio al cliente no fue útil en absoluto cuando intenté resolver un problema con mi cuenta. Esto es inaceptable.,Spanish,1.1612306467502147,SMS,0,Alexander Stewart,"835 Phillips Squares
+North Anthony, GA 50341",Make a fourth one now.,4,Chat GPT 4.0
+1061,web branch,2023-09-17,Le site web de l'agence est très lent et ne répond pas correctement. C'est un vrai casse-tête pour gérer mes finances.,French,1.2382500164617667,Telephone,9,Robert Martin,"4066 Johnson Isle Suite 447
+North Elizabethburgh, NV 18022","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1062,atm,2023-09-19,Le distributeur automatique de billets de votre agence est souvent en panne. C'est très dérangeant quand j'ai besoin de retirer de l'argent.,French,1.055052967295286,Telephone,6,Mr. Robert Davis,"105 Charles Mountain Apt. 850
+Brittanyberg, KS 20575","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1063,checking,2023-09-21,Mon compte chèque présente des frais que je ne reconnais pas. J'ai besoin d'aide pour comprendre ces frais.,French,2.074405287982034,Telephone,6,Mitchell Anderson,"12349 Sarah Islands Apt. 728
+West Adam, KY 93374","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1064,bill pay,2023-09-23,"Le service de paiement de factures ne fonctionne pas correctement. Il ne met pas à jour les factures que j'ai payées, ce qui crée de la confusion.",French,2.232462051301321,Telephone,8,Heather Brady,"171 Sabrina Camp
+Mitchelltown, TN 13076","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1065,credit or debit card,2023-09-25,"Ma carte de crédit affiche des frais frauduleux. J'ai signalé l'incident, mais les frais n'ont pas encore été annulés.",French,2.07165184136095,Telephone,3,Amy Hernandez,"37359 Margaret Island
+Port Christopherfurt, ID 45303","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1066,other,2023-09-27,Votre service clientèle est difficile à atteindre. J'ai passé plus de 30 minutes en attente la dernière fois.,French,2.179875498325665,Telephone,3,Melanie Johnson,"94839 Tim Green
+Port Barbara, RI 16814","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1067,web branch,2023-09-29,Le site web de la banque n'est pas compatible avec mon navigateur. C'est très gênant de devoir changer de navigateur pour accéder à mes comptes.,French,1.7776222012932505,Telephone,8,Jennifer Mckenzie,"8827 Rodriguez Green
+Port Scott, MS 43196","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1068,atm,2023-10-01,Le distributeur automatique de billets de mon quartier ne donne pas de reçus. C'est très ennuyeux quand j'ai besoin de garder une trace de mes retraits.,French,2.3413920018319274,Telephone,5,Daniel Martin,"438 Martin Corner Apt. 751
+Barkerchester, RI 36095","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1069,checking,2023-10-03,J'ai remarqué des frais d'entretien sur mon compte chèque que je n'étais pas au courant. Cela me semble injuste.,French,2.2642022008023766,Telephone,3,David Smith,"2958 Martin Field Suite 217
+Lake Christopherburgh, SD 10251","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1070,bill pay,2023-10-05,Le service de paiement de factures ne propose pas d'option pour mettre en place des paiements récurrents. C'est vraiment désagréable.,French,2.2659070465964564,Telephone,3,Natasha Smith,"15226 Elliott Course Suite 255
+South Alexa, IL 48637","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1071,credit or debit card,2023-10-07,J'ai reçu une nouvelle carte de débit sans l'avoir demandée. Je suis préoccupé par la sécurité de mon compte.,French,2.1720640356163323,Telephone,0,Tiffany Phelps,"2495 Barbara Valleys
+Matthewchester, NC 94164","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1072,other,2023-10-09,Le personnel de votre agence n'était pas serviable quand je suis venu résoudre un problème. Leur attitude était très décevante.,French,1.2178450408711037,Email,4,Carl Webster,"USNS Mendez
+FPO AE 44773","Okay, a fifth. This time make some of the complains in french.",5,Chat GPT 4.0
+1073,web branch,2023-10-11,I'm unable to access the web branch of your bank. This is causing a lot of inconvenience as I rely on it for my day-to-day transactions.,English,1.92324999085586,Telephone,7,Devon Frederick,"1688 Justin Locks Apt. 512
+Singhmouth, HI 73818","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1074,atm,2023-10-13,El cajero automático siempre está fuera de servicio cuando más lo necesito. Esto está afectando mi capacidad para acceder a mis fondos.,Spanish,1.9622574796999228,Telephone,8,Sara Alexander,"Unit 9113 Box 7465
+DPO AA 67335","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1075,checking,2023-10-15,Mon compte courant a été débité de frais que je n'ai pas autorisés. J'ai besoin d'aide pour résoudre ce problème.,French,2.103452632323264,Telephone,2,Christian Bullock,"USNS Soto
+FPO AE 83972","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1076,bill pay,2023-10-17,The bill pay feature doesn't work properly on my app. It's making it difficult for me to pay my bills on time.,English,2.02041761400809,Telephone,10,Douglas Conner,"308 Cynthia Crossroad Suite 110
+Warnerchester, GU 81494","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1077,credit or debit card,2023-10-19,"Mi tarjeta de crédito no está funcionando correctamente. A pesar de tener suficiente saldo, se ha rechazado en varias ocasiones.",Spanish,1.4240395188659039,SMS,9,Angela Harris,"2743 Joel Throughway Suite 686
+Davidfort, ND 26742","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1078,other,2023-10-21,J'ai reçu un nouveau chéquier que je n'ai pas demandé. Cela me préoccupe beaucoup pour la sécurité de mon compte.,French,1.174294012749511,SMS,7,Angel Rodriguez,"613 Carter Place
+Hoffmanside, KS 54305","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1079,web branch,2023-10-23,Your web branch doesn't have a proper customer support option. It's difficult to get assistance when I face issues.,English,1.624130713258206,SMS,10,Johnny Santos,"53251 Mark Mall
+East Crystal, FL 52741","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1080,atm,2023-10-25,"No puedo retirar dinero del cajero automático. A pesar de tener saldo suficiente en mi cuenta, siempre muestra un error.",Spanish,1.1701758534415663,SMS,8,Erik Lowe,"USCGC Colon
+FPO AP 34674","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1081,checking,2023-10-27,Il y a eu plusieurs chèques débités de mon compte chèque que je n'ai pas émis. J'aimerais obtenir une explication à ce sujet.,French,1.2025965518228718,Telephone,8,James Carpenter,"35296 Rich Garden Apt. 770
+Robinsonborough, MP 01265","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1082,bill pay,2023-10-29,I've been charged late fees for my bills even though I set up auto-pay. I need these charges to be reversed.,English,1.2338013197319873,Email,9,Melinda Guerra,"74527 Wilson Mountain
+Williamsonstad, RI 36150","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1083,credit or debit card,2023-10-31,El número de mi tarjeta de débito ha cambiado sin mi conocimiento. Esto ha causado problemas con mis pagos automáticos.,Spanish,1.206732283346605,Email,9,Kristin Wilson,"261 Davis Forge
+West Yolanda, MH 34210","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1084,other,2023-11-02,Votre personnel de l'agence ne m'a pas fourni les informations nécessaires concernant la procédure de clôture de compte. C'est très frustrant.,French,1.1307715729103907,Telephone,4,James Nunez,"36420 David Station Apt. 131
+Lake William, UT 65998","Okay give me one with some english, some spanish, and some french.",6,Chat GPT 4.0
+1085,web branch,2023-11-04,"Oh, how I enjoy being logged out of the web branch in the middle of important transactions. The thrill is simply unparalleled!",English,1.0059485887200945,Email,4,Phillip Reese,"903 Francis Junction
+Jamesside, MP 82911","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1086,atm,2023-11-06,"I just love going to your ATM and seeing it out of service. It really spices up my day, you know?",English,1.9591894427676155,Telephone,7,Laura Allen,"493 Morgan Ferry
+West Laurie, TX 49265","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1087,checking,2023-11-08,"Well, it appears my checking account has decided to take up magic! Abracadabra and voila, mysterious charges appear!",English,1.7906432568922512,Telephone,5,Jose Mann,"080 Jody Mountains Apt. 149
+West Jeffrey, WV 53979","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1088,bill pay,2023-11-10,"The bill pay system is phenomenal, really. Especially when it doesn’t register my payments. It's like an unexpected lottery.",English,2.032428182823507,Telephone,8,Dawn Riley,"404 Cox Mountain Suite 747
+East Lisaport, TX 88374","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1089,credit or debit card,2023-11-12,My credit card showing fraudulent charges? How thrilling! I always wanted to sponsor someone’s shopping spree.,English,2.070175196919839,Telephone,10,Kimberly Aguirre,"43720 Matthew Point Suite 283
+Smithport, NV 18727","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1090,other,2023-11-14,It's so entertaining to call your customer service line. Long hold times? More time for me to practice my singing!,English,1.9764920618991493,Telephone,7,Edward Alexander,"1304 Whitney Track
+Reillyview, AK 45535","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1091,web branch,2023-11-16,The web branch's sluggishness is my favorite. It's so exciting to wonder if I'll be able to pay my bills before the next Ice Age.,English,2.4660103939147486,Telephone,6,Kimberly Cole,"2341 Melissa Track Suite 218
+West Anthonychester, VI 34333","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1092,atm,2023-11-18,Your ATM has a wonderful habit of eating my cards. Who knew banking could be such an adventure?,English,2.2348953956537865,Telephone,8,Shelia Collins,"7795 Orr Junction Suite 338
+Lisabury, ND 89842","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1093,checking,2023-11-20,"Oh, look, another overdraft fee on my checking account! I love these little surprises you leave for me.",English,2.1606364810941088,Telephone,7,Ashley Cameron,"7938 Johnson Ridges
+North Ianshire, NH 34959","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1094,bill pay,2023-11-22,"My favorite pastime? Oh, it's setting up bill payments and hoping they'll actually go through. Fingers crossed!",English,2.1183267904539576,Telephone,10,Jennifer Griffin,"7790 Lane Run Suite 370
+Brittanyberg, AL 52128","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1095,credit or debit card,2023-11-24,"A new debit card with a different number out of the blue! My, aren't we fond of shaking things up?",English,2.2880994613621857,Telephone,9,Joshua Cox,"PSC 2408, Box 5772
+APO AE 34466","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1096,other,2023-11-26,Had a splendid time talking to the branch staff. Never knew indifference could be an art form!,English,2.524139912307055,Telephone,2,Austin Smith,"8464 John Walks
+Youngfort, WY 97031","Okay give me one with some english, some spanish, and some french.",7,Chat GPT 4.0
+1097,web branch,2023-11-28,Your website is like a turtle! It's so slow! I could probably count to a zillion before it loads!,English,1.8838306282919959,Telephone,7,Jessica Andrade,"2604 Gomez Motorway Apt. 301
+North Willie, VT 71381",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1098,atm,2023-11-30,"The ATM machine swallowed my money! It's like a piggy bank, but it's not giving me my money back!",English,1.4474373739525872,Telephone,4,Jill Harmon,"74281 Silva Unions Suite 373
+West Alan, LA 02337",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1099,checking,2023-12-02,"My piggy bank... I mean, checking account has less money than it should! Did a money-eating monster visit it?",English,1.6948284796238038,Telephone,6,Michael Burns,"60559 Jonathan Creek Suite 944
+Brucehaven, PR 33996",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1100,bill pay,2023-12-04,"I tried to pay my bill for my toys, but your bill-pay thingy isn't working! It's like a broken toy!",English,1.5074751951747702,Telephone,3,Dakota Conway,"90376 Christine Crest Apt. 732
+Port Richardshire, SC 84435",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1101,credit or debit card,2023-12-06,"I think my card is sick. It's not working! I tried to buy ice cream, but the card just wouldn't work.",English,1.5170397503910649,Telephone,8,Christina Ochoa,"USS Brown
+FPO AA 73004",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1102,other,2023-12-08,"I called your people, and they didn't help me find my lost money! They're like grumpy grown-ups!",English,1.3685599502526247,Telephone,3,Haley Price,"5767 Taylor Shores Apt. 902
+Reedtown, NH 59283",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1103,web branch,2023-12-10,"Your web branch is like a puzzle, but not a fun one! I can't find anything on it!",English,1.0107202320198354,SMS,9,Andrew Wood,"9186 Richard Summit
+Hannahberg, VA 41304",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1104,atm,2023-12-12,"Your money-machine outside is always sleeping! Every time I go there, it's out of service!",English,2.5638114880824214,Telephone,7,Richard Myers,"22825 Moore Summit Apt. 999
+Williamchester, CT 61576",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1105,checking,2023-12-14,My checking account is playing tricks on me! It shows less money than my mommy gave me!,English,2.412338835642454,Telephone,6,Stephanie Hunt,"49131 Cabrera Views Suite 226
+East Christopher, AK 65127",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1106,bill pay,2023-12-16,Paying bills on your system is like playing a game that I always lose! It never works!,English,2.2714007981724857,Telephone,7,Ellen Garcia,"32964 Solomon Field Suite 871
+Ramirezview, VI 25561",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1107,credit or debit card,2023-12-18,My magic money card is not magic anymore. It's not letting me buy candies!,English,2.2600355513194517,Telephone,1,Daniel Henderson,"231 Jefferson Locks Suite 851
+Staffordchester, CA 58744",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1108,other,2023-12-20,"Talking to your bank people is like talking to my teddy bear, Mr. Snuggles. But Mr. Snuggles is nicer!",English,1.382251914619962,Telephone,0,Melissa Williams,"433 David Forks
+Robertshaven, MO 67008",For number 8 make it in english but make it extra snippy and sarcastic.,8,Chat GPT 4.0
+1109,web branch,2023-12-22,"The web branch's response time is so slow that a snail could win a race against it. If this isn't fixed, I'm taking to Twitter to air my frustrations.",English,1.1343596014055164,Email,9,Donna Sexton,"32624 Morgan Roads Apt. 298
+Port Stephen, WA 43550",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1110,atm,2023-12-24,Your ATM swallowed my card. Again. This is beyond ridiculous now. I hope you don't mind a Facebook post detailing this horror show.,English,1.157214173449156,Telephone,9,Julia Morales,"864 Brent Via
+Rodriguezstad, DC 40278",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1111,checking,2023-12-26,"If one more unauthorized charge shows up on my checking account, I'm going to make a very public TikTok about my experience. Consider yourself warned.",English,1.2093474966561801,Email,4,Stephen Walton,"USNV Schwartz
+FPO AE 10352",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1112,bill pay,2023-12-28,The bill pay service is more unreliable than my three-year-old's mood swings. Instagram's going to love hearing about this.,English,1.0270420314136466,Email,9,Paul Graves,"USCGC Sandoval
+FPO AP 72771",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1113,credit or debit card,2023-12-30,"My credit card's been declined multiple times now. Oh, I can't wait to share this 'wonderful' experience on LinkedIn!",English,1.1777231875111422,Telephone,4,Aaron Ruiz,"Unit 1853 Box 6377
+DPO AP 56286",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1114,other,2024-01-01,Your customer service seems to have graduated from the school of incompetence. Guess I'll have to vent about it on my blog.,English,1.1843883526452648,Telephone,3,Jodi Solis,"140 Wong Ferry
+East Chelseyfort, CA 62912",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1115,web branch,2024-01-03,Experiencing your web branch's downtime is like a surprise party no one wanted. Time to let my Snapchat followers know about this 'party'.,English,1.0415696320352346,SMS,7,Heather Warren,"0540 Christina Drive Apt. 377
+Lake Kelly, OH 14350",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1116,atm,2024-01-05,Your ATM is out of service more often than it's working. Twitter's going to have a field day with this one.,English,2.0493972706648775,Telephone,3,Donna Knox,"60801 Eric Oval Suite 289
+North Vincent, MS 31188",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1117,checking,2024-01-07,"Another unexpected fee in my checking account? Great, now I have fresh material for my Instagram story today.",English,2.2633030603089463,Telephone,7,Michael Adams,"30995 Fleming Ramp
+Lake Philliptown, ME 16789",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1118,bill pay,2024-01-09,"If my bill payments fail one more time, I'm going to document this experience on YouTube for everyone to see.",English,1.0236666279343738,SMS,9,Kelsey Wade,"3979 Wiggins Forest Apt. 578
+Smithhaven, NJ 14746",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1119,credit or debit card,2024-01-11,"I never knew a simple card replacement request would turn into an endless saga. Seems like a tale worth sharing on Facebook, doesn't it?",English,1.0106664203252587,SMS,7,Yvonne Bell,"896 Ramirez River Suite 856
+Donaldstad, OH 86253",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1120,other,2024-01-13,Interacting with your branch staff is always... a memorable experience. I think my blog readers will enjoy hearing about it.,English,1.3443142992915784,SMS,9,Justin Spencer,"08605 Williams Prairie Apt. 876
+West Heatherburgh, MP 71990",For number 9 write them as if they're coming from someone who is very childish.,9,Chat GPT 4.0
+1121,web branch,2024-01-15,"The web branch has been down for hours. If it's not resolved soon, I'll be contacting the Federal Trade Commission.",English,1.3902677620444055,SMS,0,Matthew Smith,"PSC 8989, Box 1082
+APO AA 40438",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1122,atm,2024-01-17,"Your ATM just ate my card. If it's not replaced promptly, I'll have to report this to our state banking regulator.",English,1.7427599989572102,Telephone,8,Evan Morris,"USS Spence
+FPO AE 40568",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1123,checking,2024-01-19,"My checking account is riddled with unauthorized charges. If this is not rectified, I will be escalating this to the Consumer Financial Protection Bureau.",English,1.3391238363548192,SMS,8,Steven Long,"5540 Ashley Courts Suite 926
+West Pamelaview, IN 87067",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1124,bill pay,2024-01-21,"The bill pay feature is consistently failing. If the issues continue, I'm afraid I'll have to bring this to the attention of the Office of the Comptroller of the Currency.",English,1.4055977547501652,Email,7,Ashley Garcia,"68143 Watkins Road
+Parrishfurt, MN 16229",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1125,credit or debit card,2024-01-23,"My credit card was charged twice for a single purchase. If this isn't corrected, I'll contact the Federal Reserve for this mishap.",English,1.8232256567863563,Telephone,7,Carmen Cooper,"59448 Munoz Forge Suite 099
+East Suzanne, MI 97616",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1126,other,2024-01-25,"The response from your customer service has been unsatisfactory. If I don't see improvements, I'll have to report this to the Financial Crimes Enforcement Network.",English,1.5890756907645232,Telephone,8,Anna Perez,"348 Taylor Port
+South Jenniferfort, AK 26896",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1127,web branch,2024-01-27,The constant technical glitches on your web branch are unacceptable. I'm ready to file a complaint with the National Credit Union Administration if this continues.,English,1.3619427776420405,Telephone,8,Heather Wallace,"568 Lisa Islands Suite 861
+Danielschester, FL 10900",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1128,atm,2024-01-29,The ATM has been out of service for days. I'm seriously considering reporting this to our state banking authority if it's not fixed soon.,English,1.404077954214699,Telephone,9,Amy Tapia,"267 Miller Common Suite 964
+Brownport, DE 93012",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1129,checking,2024-01-31,Unauthorized transactions on my checking account have been a constant issue. I'm considering bringing this matter to the Federal Deposit Insurance Corporation.,English,1.652603269258881,Telephone,7,Troy Santiago,"199 Barrera Street
+Port Laura, PW 49540",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1130,bill pay,2024-02-02,"The bill pay service seems to have a mind of its own. If this isn't sorted soon, I'm ready to file a complaint with the Consumer Financial Protection Bureau.",English,0.9747812897244857,Email,9,Timothy Coleman,"653 Keller Corners Suite 136
+North Taramouth, TN 44096",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1131,credit or debit card,2024-02-04,You've issued a new credit card without my request or consent. I may have to escalate this to the Federal Trade Commission if not corrected immediately.,English,1.3124115361932283,Telephone,8,Thomas Sloan,"85991 Bruce Cove
+North Tylerville, ID 18752",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1132,other,2024-02-06,"I'm utterly dissatisfied with the way your branch staff handled my concerns. If things don't improve, I'll be forced to file a complaint with our state regulator.",English,0.9433915468281053,Email,9,Susan Paul,"669 Lewis Field Suite 529
+North Kennethburgh, MT 14723",Now make the 10th full of threats to complain on social media.,10,Chat GPT 4.0
+1133,web branch,2024-02-08,"The web branch was down when I tried to pay for my wedding venue. Because of this, I almost lost my reservation. This was incredibly stressful and disappointing.",English,1.2578799279372257,Telephone,0,Katherine Wright,"722 Mills Village
+Jerryport, VT 59008",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1134,atm,2024-02-10,"Your ATM didn't dispense the cash I needed for my son's birthday party. The clown we hired went unpaid and left early, ruining the day for my little boy.",English,1.8479108862877993,Telephone,8,Walter Walker,"PSC 7188, Box 3744
+APO AE 48885",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1135,checking,2024-02-12,Unexpected charges in my checking account put me in the red right before my anniversary dinner. I had to cancel our reservations at a fancy restaurant. Thanks a lot!,English,1.7851328514089693,Telephone,8,Travis Foley,"80131 Jonathan Square
+East Kevin, AL 69465",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1136,bill pay,2024-02-14,Your bill pay system's glitch led to late fees on my credit card on the very day of my graduation ceremony. This soured what should have been a joyous occasion.,English,1.772564473044824,Telephone,7,Ryan Martin,"7923 Ford Turnpike Apt. 765
+North Jeffrey, CA 35020",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1137,credit or debit card,2024-02-16,I couldn't use my debit card to pay for a surprise holiday I planned for my wife's birthday because of some 'suspicious activity' lock. You really spoiled the surprise.,English,2.072870445391416,Telephone,3,Ryan Pope,"01438 Carter Station
+South Tiffanyburgh, AS 19190",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1138,other,2024-02-18,Your customer service kept me on hold for hours when I should have been setting up my daughter's surprise baby shower. I missed decorating the venue because of this.,English,2.297302100751326,Telephone,2,Katie Burns,"621 Lawson Brooks Apt. 934
+Lake Laurenton, TX 21957",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1139,web branch,2024-02-20,"I planned a lovely Valentine's Day surprise for my partner, but your web branch's downtime meant I couldn't transfer funds to the event planner. Way to ruin a romantic day!",English,2.227347263538378,Telephone,7,Victor Garcia,"9652 Ballard Estate Apt. 077
+Lake Bradleybury, MD 89106",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1140,atm,2024-02-22,"I wanted to withdraw money from your ATM for my mom's retirement gift, but it was out of service. This almost ruined a very special event for us.",English,2.28785457196113,Telephone,7,Kevin Cochran,"8345 Lisa Dam Suite 505
+Robertside, MA 88693",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1141,checking,2024-02-24,My checking account showed less balance than it should have on the day of my son's college tuition fee payment. It gave me and my son an unnecessary panic attack.,English,2.13292969164961,Telephone,10,Melissa Allen,"110 Michael Causeway Suite 308
+New Carolyn, OR 44114",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1142,bill pay,2024-02-26,"Your bill pay system didn't process my electricity bill payment, and we had a power cut during my father's 60th birthday party. A birthday by candlelight wasn't exactly what we had planned.",English,1.1728251419716427,SMS,7,Miss Morgan Nelson,"7040 Estrada Trafficway Apt. 358
+North Barbarahaven, IL 20350",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1143,credit or debit card,2024-02-28,"On our family vacation, my credit card was unexpectedly blocked. This put us in a very uncomfortable position in a foreign country. So much for a relaxing holiday!",English,0.8939631679116673,SMS,9,Ryan Oliver,"699 Stephanie Manors Apt. 504
+Benjamintown, AL 84983",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1144,other,2024-03-01,"When I reached out to your branch staff for help, they were so indifferent. Their lack of assistance almost caused me to miss my best friend's wedding where I was the maid of honor.",English,1.0951151626967206,SMS,7,Jennifer Robles,"2819 Jason Islands
+Lake Vickieborough, PR 86101",For the 11th lets make it full of threats to complain to state or federal regulators.,11,Chat GPT 4.0
+1145,web branch,2024-03-03,"I worked for your bank's IT department, and I know for a fact that web branch downtime could be avoided with proper maintenance. This is unacceptable!",English,0.8531641193680439,Email,8,Courtney Barrett,"147 Daniels Viaduct
+Lake James, KY 89356","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1146,atm,2024-03-05,"As a former bank teller here, I understand the importance of keeping ATMs operational. Your frequent ATM outages are a clear sign of mismanagement.",English,1.0365153923360366,Email,4,Kathleen Cook,"6760 Michael Branch Suite 740
+Dawnberg, MA 71922","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1147,checking,2024-03-07,"I was a part of the accounts team in your bank, and I can't believe how carelessly you're handling charges on my checking account.",English,0.9852977101643414,Telephone,10,Daniel Evans,"466 Chelsea Brook Apt. 319
+Port Natalie, KS 65191","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1148,bill pay,2024-03-09,"Having worked in your payments department, I am shocked at how unreliable the bill pay feature has become.",English,1.0941293331437625,SMS,0,Raven Davis,"604 Peter Cliff
+New Sabrina, ME 58902","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1149,credit or debit card,2024-03-11,"I used to manage credit and debit cards in your bank, and it's embarrassing how often your system blocks cards without proper verification.",English,1.1577268320329748,SMS,8,Janet Hernandez,"0153 Anne Key Apt. 785
+Millerhaven, MP 65169","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1150,other,2024-03-13,"I used to work in your customer service, and the recent responses I received are nowhere near the standards we upheld. Very disappointed!",English,1.2587438454362252,Email,9,Rhonda Wheeler,"70473 Connie Crescent
+Warnerburgh, AS 60639","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1151,web branch,2024-03-15,"I helped build your original web branch, and it's sad to see it in such a pitiful state now. I expected more from my former employer.",English,1.1530860934296543,Email,9,Ronnie Morton,"379 Chad Mall
+Lisatown, VA 57152","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1152,atm,2024-03-17,"During my time in your bank, the ATMs were regularly serviced. Now it seems they're more often out of order than not. What changed?",English,1.0422220806429598,SMS,6,Sarah Barnes,"4465 Lane Via
+Matthewland, FM 49636","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1153,checking,2024-03-19,I worked in your banking branch for years and never saw such a high number of discrepancies in checking accounts. This is highly concerning.,English,1.7300960057876091,Telephone,2,Kimberly Navarro,"1717 David Key
+Heatherfurt, IA 94347","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1154,bill pay,2024-03-21,I was once a part of the team that ensured seamless bill payments. It's disheartening to see the service deteriorate to such a degree.,English,1.734437212575068,Telephone,3,Jane Cole,"3913 Davis Land
+Stevenburgh, OR 33303","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1155,credit or debit card,2024-03-23,I dealt with card services during my time in your bank. The number of issues I'm facing with my card now would have been unthinkable back then.,English,1.6293081310602628,Telephone,7,Jon Moore DVM,"67326 King Forest
+East Dawn, LA 93947","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1156,other,2024-03-25,"Having been a part of your bank's staff, I expected better assistance than what I recently received. Your customer service quality has dropped considerably.",English,1.6306387146773502,Telephone,6,Cynthia Thompson,"7605 Irwin Burg
+West Lukeshire, WA 92706","For number 12 include information about how the banking problem interrupted important life events like weddings, birthdays, anniversaries, etc.",12,Chat GPT 4.0
+1157,web branch,2024-03-03,"I worked for your bank's IT department, and I know for a fact that web branch downtime could be avoided with proper maintenance. This is unacceptable!",English,2.237565552285443,Telephone,8,Terry Krause,"72171 Nguyen Courts
+West Amandafurt, OR 02066",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1158,atm,2024-03-05,"As a former bank teller here, I understand the importance of keeping ATMs operational. Your frequent ATM outages are a clear sign of mismanagement.",English,2.1396251758811253,Telephone,3,Mr. Victor Brown,"541 Autumn Corner Suite 600
+Port Davidberg, MO 13606",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1159,checking,2024-03-07,"I was a part of the accounts team in your bank, and I can't believe how carelessly you're handling charges on my checking account.",English,2.2413218466812395,Telephone,3,Katherine Nelson,"Unit 4858 Box 8028
+DPO AA 41193",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1160,bill pay,2024-03-09,"Having worked in your payments department, I am shocked at how unreliable the bill pay feature has become.",English,2.3409238230685387,Telephone,8,Jenna Flores,"678 Jennifer Island
+Victorshire, IN 10272",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1161,credit or debit card,2024-03-11,"I used to manage credit and debit cards in your bank, and it's embarrassing how often your system blocks cards without proper verification.",English,1.9566955659738416,Telephone,3,Jessica Hamilton,"532 Thomas Mill
+Marialand, MS 56704",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1162,other,2024-03-13,"I used to work in your customer service, and the recent responses I received are nowhere near the standards we upheld. Very disappointed!",English,1.9568008625028321,Telephone,8,Wesley Willis,"515 Davis Terrace
+Rachelton, KS 02704",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1163,web branch,2024-03-15,"I helped build your original web branch, and it's sad to see it in such a pitiful state now. I expected more from my former employer.",English,1.8511175617501712,Telephone,8,Claudia Lawrence,"004 James Drives Suite 003
+South Caitlin, IN 91244",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1164,atm,2024-03-17,"During my time in your bank, the ATMs were regularly serviced. Now it seems they're more often out of order than not. What changed?",English,1.9465417675875332,Telephone,8,Nicole Simpson,"98437 Glenn Dale
+Jenniferstad, KY 24701",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1165,checking,2024-03-19,I worked in your banking branch for years and never saw such a high number of discrepancies in checking accounts. This is highly concerning.,English,1.6391972607028003,Telephone,8,Stephen Escobar,"561 Hernandez Cape Apt. 586
+Palmerchester, CT 48833",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1166,bill pay,2024-03-21,I was once a part of the team that ensured seamless bill payments. It's disheartening to see the service deteriorate to such a degree.,English,1.6614999698801254,Telephone,3,Cynthia Reese,"USCGC Cowan
+FPO AA 41360",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1167,credit or debit card,2024-03-23,I dealt with card services during my time in your bank. The number of issues I'm facing with my card now would have been unthinkable back then.,English,1.6153890546033225,Telephone,10,Isaiah Diaz,"9047 Powell Isle Apt. 195
+East Alexisberg, OH 78408",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1168,other,2024-03-25,"Having been a part of your bank's staff, I expected better assistance than what I recently received. Your customer service quality has dropped considerably.",English,1.0439644456177926,Email,9,Donna Robinson,"9853 Zhang Valleys
+Christopherland, FL 08440",For number 13 make the complaints from people who say they used to work for the bank.,13,Chat GPT 4.0
+1169,web branch,2024-03-27,Your web branch is consistently down. I'm seriously considering switching to XYZ bank if this continues.,English,1.3225288759007239,Telephone,8,Anna Johnson,"159 Michelle Brooks
+Andrehaven, NY 72601",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1170,atm,2024-03-29,"The ATMs are frequently out of service. If this situation doesn't improve, I'll be forced to move to ABC bank.",English,1.465962795322092,Telephone,5,James Hill,"1609 Combs Skyway
+Willisburgh, AZ 28429",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1171,checking,2024-03-31,The constant errors in my checking account are pushing me to close my account and open one with DEF bank instead.,English,1.2248841534969723,Telephone,10,David Contreras,"9697 Steven Freeway Apt. 343
+New Cherylburgh, CA 49116",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1172,bill pay,2024-04-02,"Your bill pay feature has been unreliable. If this isn't sorted soon, I'm shifting my banking to GHI bank.",English,1.3687087823909843,Email,8,Nathan Pierce,"665 Debra Junctions
+Karenland, ND 57632",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1173,credit or debit card,2024-04-04,"My card has been declined multiple times without reason. If this happens one more time, I'm moving to JKL bank.",English,1.22888635704438,SMS,9,Charles Blair,"6369 Davis Keys Suite 799
+Atkinsonmouth, PR 56237",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1174,other,2024-04-06,"I'm deeply unsatisfied with your customer service. If things don't improve, I will take my business to MNO bank.",English,1.2746807746506037,Email,8,Mrs. Linda Stout,"139 Mark Lodge Apt. 580
+West Williamhaven, VA 98944",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1175,web branch,2024-04-08,"The web branch's downtime is becoming unbearable. If this continues, I'm switching my banking to PQR bank.",English,1.489252089496677,Telephone,6,Leon Richardson,"Unit 1339 Box 4053
+DPO AA 32195",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1176,atm,2024-04-10,"If your ATM doesn't get fixed soon, I'll have to consider banking with STU bank.",English,0.9588365489818773,SMS,9,Joseph Parker,"8371 Michelle Tunnel Suite 317
+West Robinchester, OH 83846",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1177,checking,2024-04-12,These unexpected charges on my checking account have me thinking about shifting to VWX bank.,English,1.5734892132231042,Telephone,8,Tiffany Morrison,"01940 Marie Ports Apt. 578
+Walkershire, WV 45658",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1178,bill pay,2024-04-14,The bill pay failures are forcing me to consider a switch to YZA bank.,English,1.3107636394225013,SMS,4,Alan Jackson,"5613 Brown Square
+New Hannahton, MN 89297",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1179,credit or debit card,2024-04-16,Your handling of my card issue leaves me no choice but to contemplate moving my banking to BCD bank.,English,1.5267116630004318,SMS,8,Brandon Newton,"2954 Turner Ford Apt. 177
+South Lisashire, IA 82683",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1180,other,2024-04-18,The lack of effective assistance from your staff has me seriously considering switching to EFG bank.,English,1.4573414707656092,SMS,9,Douglas Vincent,"USCGC Guerra
+FPO AA 46169",For the 14th make it from folks who promise their next step is going to be to close their account and switch to a different bank.,14,Chat GPT 4.0
+1181,web branch,2024-04-20,English not first language. Web branch very hard use. Much trouble. Please fix.,English,1.335835292913396,SMS,9,Jordan Bonilla,"7672 Valdez Ways
+Juanbury, SD 09289",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1182,atm,2024-04-22,I no first language English. ATM broken. Me problem big. Need quick solution.,English,0.9400330803920269,Email,0,Douglas Mayer,"186 Garza Pines
+New Michael, AK 61159",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1183,checking,2024-04-24,English my second language. Checking account errors. Very distressing. Please help.,English,1.1394919067404152,SMS,6,Erika Lambert,"85231 Ramirez Forges
+Francisborough, CO 39024",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1184,bill pay,2024-04-26,English not my mother tongue. Bill pay not work. Cause stress. Please resolve.,English,1.032779113871546,SMS,4,Mary Edwards,"3323 Adams Shoal Suite 937
+East Courtney, FL 15847",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1185,credit or debit card,2024-04-28,Not fluent English. Card declined no reason. Very bad. Please solve soon.,English,1.2613095579110511,Telephone,8,Christian Mills,"50357 Kelly Hill
+New Patricia, MI 54566",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1186,other,2024-04-30,I struggle English. Customer service unhelpful. Very disappoint. Need better service.,English,1.0945351680705349,Telephone,4,Courtney Brown,"4714 Jeffery Course Suite 690
+Lake Jacquelineview, DE 03749",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1187,web branch,2024-05-02,English not good. Web branch many times down. Difficult for me. Please repair.,English,1.102636823543811,SMS,8,Paul Day,"100 Nathan Rest Apt. 126
+Port Paul, OR 23321",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1188,atm,2024-05-04,Me English learn. ATM not work often. Problem serious. Hope fix quick.,English,2.1894020696545162,Telephone,8,Justin Hoover,"PSC 7614, Box 2626
+APO AP 91823",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1189,checking,2024-05-06,English language difficult. Checking account mistake. Problem big. Hope resolve soon.,English,2.219992986095184,Telephone,8,Johnathan Mendoza,"6499 Holly Alley Suite 766
+New Kevin, SD 53059",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1190,bill pay,2024-05-08,I not master English. Bill pay fail. Trouble lot. Need fix fast.,English,2.0962321449435835,Telephone,7,Lauren Stewart,"48260 Jennifer Extension Suite 406
+Arthurmouth, VT 91800",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1191,credit or debit card,2024-05-10,English not easy. Card blocked no cause. Problem big. Please quick fix.,English,2.0930284312926117,Telephone,7,Shannon Ortiz,"6661 Henry Street Suite 520
+Moraleston, AS 99391",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1192,other,2024-05-12,English not first language. Staff no help. Very sad. Want better help.,English,1.5955689970470726,Telephone,8,Kara Flores,"4344 Parrish Cape Apt. 389
+New Claire, OH 36973",Make the 15th from folks who say English is not their first language.,15,Chat GPT 4.0
+1193,web branch,2024-05-14,the bread branch is always up gosh this is really stressing me out,English,1.60451259751252,Telephone,7,Amanda Shaw,"2254 Brendan Canyon Apt. 292
+East William, TX 85850",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1194,atm,2024-05-16,this you know the cash machine isn't working again and now I can't get my cash out,English,1.512741747542262,Telephone,5,Autumn Tyler,"1638 Murray Track Apt. 199
+Christopherview, VA 47824",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1195,checking,2024-05-18,shaking account has errors can you believe this bank? They need to fix these issues,English,1.5108453701022315,Telephone,8,Roberta Gonzalez,"93528 Gardner Junctions
+Manuelburgh, AS 90239",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1196,bill pay,2024-05-20,can't believe this bill pay is a mess it's unreliable to the core,English,0.946121029825817,Telephone,8,Phyllis Anthony,"8834 Christian Harbor Apt. 604
+Lake Aaron, AS 18415",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1197,credit or debit card,2024-05-22,they blocked my card again for no reason this is really a nightmare,English,1.1078911902419022,Telephone,8,Tony Barber,"698 Courtney Alley Suite 614
+Port Melissatown, WY 10569",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1198,other,2024-05-24,customer service is really disappointing they are not very helpful at all,English,0.9739632091158459,SMS,5,Roberto Estrada,"613 Nguyen Crest
+New Craig, PW 79422",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1199,web branch,2024-05-26,"the bread branch is down again, it’s like a frequent event, very frustrating",English,0.8503523244205105,Email,4,Jose Barnes,"74644 Phillips Cape
+Kevinland, NM 66497",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1200,atm,2024-05-28,"the cash dispenser machine is out of order again, makes me wonder why I bank here",English,1.812428239985408,Telephone,3,Nancy Guerrero,"94527 Omar Lights
+Leeside, IN 81184",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1201,checking,2024-05-30,"my shaking account, yes checking, is showing wrong charges, isn't this ridiculous",English,1.7453169987538628,Telephone,8,Jason Murphy,"936 Robert Unions Apt. 167
+Kevinhaven, KS 11110",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1202,bill pay,2024-06-01,"this bill pay feature is an absolute disaster, it failed me again",English,1.8415624579107375,Telephone,7,Austin Moore,"845 Jeremy Loaf
+Joneschester, LA 04253",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1203,credit or debit card,2024-06-03,"card declined, yeah declined, for no apparent reason, makes me question this bank",English,1.625666604137855,Telephone,5,Jamie Ryan,"0966 Moran Branch Suite 879
+East Ashley, UT 08043",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1204,other,2024-06-05,"customer service is a joke, they don’t even seem to care, it’s really disappointing",English,0.8348670308704562,SMS,4,Jeffrey Patterson,"Unit 8302 Box 5099
+DPO AP 21816",For the 16th make it so that the complaint reads like a poor quality voice to text transcription.,16,Chat GPT 4.0
+1205,web branch,2024-06-07,"you know the web brunch isn't working properly again, it's really tiring",English,0.9852849786991378,Email,8,Lisa Conner,"439 Mcknight Circle Suite 706
+South Thomasberg, WA 47208",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1206,atm,2024-06-09,"this dumb bank's ATM is out of order again, it’s always the same story",English,1.0647301934159477,Email,9,Shirley Wallace,"USCGC Allen
+FPO AA 07825",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1207,checking,2024-06-11,"my chicken account, yeah checking, is filled with random charges, so annoying",English,1.2950857886298357,Telephone,9,Ronald Clark,"34262 Mcgrath Mission Suite 954
+East Heather, WY 90684",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1208,bill pay,2024-06-13,"hey, the bill thingy doesn’t work properly, it’s totally messed up",English,1.6040738733913533,SMS,5,Tammy Rosales,"434 Duncan Square Apt. 927
+North Michelleberg, ND 85698",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1209,credit or debit card,2024-06-15,"my card got blocked, just like that, out of the blue, seriously?",English,1.9483300727640844,Telephone,1,Donald Prince,"8101 Barnes Mission
+Colemanborough, GA 58842",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1210,other,2024-06-17,"their customer service is a big zero, they don't know anything, it’s sad",English,1.6079621408074198,SMS,5,Cindy Henderson,"38217 Johnson Ridge
+North Geraldchester, PA 64817",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1211,web branch,2024-06-19,"web brunch, oh branch, keeps getting interrupted, it’s so bad",English,1.4989997475058694,Email,4,Christy Wilkins,"177 Samantha Mountains
+Lake Waynefurt, MD 19344",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1212,atm,2024-06-21,"the ATM isn’t dispensing money, again! It's really getting on my nerves",English,1.9389980429906057,SMS,8,Marie Young,"60220 Sarah Oval Apt. 907
+Ortegaville, RI 45706",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1213,checking,2024-06-23,"so many errors in my chicken, uh checking, account, it’s scary",English,2.232716126649074,Telephone,7,William Mcclure,"9701 Gutierrez Corners Apt. 661
+Lake Courtneyburgh, TX 30447",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1214,bill pay,2024-06-25,"the bill pay feature is not working, it’s been days, it’s ridiculous",English,1.9959813298603757,Telephone,9,Jasmine Cole,"74547 Eric Lodge Suite 729
+North Jeffrey, MH 76075",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1215,credit or debit card,2024-06-27,"my card got declined without any explanation, it’s highly frustrating",English,1.945051187306598,Telephone,8,Mary Brown,"82967 Dillon Pike Suite 755
+Mezashire, ND 45425",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1216,other,2024-06-29,"the customer service is unhelpful, they don’t seem to care at all, it’s disappointing",English,1.9510023919283295,Telephone,8,Patrick Boyd,"7429 Jacob Neck
+Kaitlynmouth, NV 08630",Do another one that reads like poor quality voice to text.,17,Chat GPT 4.0
+1217,web branch,2024-07-01,Web branch always down.,English,1.0455017809398506,Email,8,Frederick Tucker,"6969 Angelica Crossing Apt. 432
+Wilsonland, MA 14829","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1218,atm,2024-07-03,ATM out of order.,English,1.05365046030508,Telephone,8,Miguel Lawrence,"6545 Devon Park Apt. 650
+Port Jonathantown, AR 70333","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1219,checking,2024-07-05,Checking account errors. Help!,English,0.8796628630264586,SMS,7,Patrick Oliver,"3779 Amy Dam
+Michaelhaven, ME 68935","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1220,bill pay,2024-07-07,Bill pay not reliable.,English,1.1379579300700504,Telephone,9,Kevin Harrison,"84921 Phillip Drives Suite 787
+Longshire, GA 34899","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1221,credit or debit card,2024-07-09,Card blocked again. Why?,English,0.9492601141804172,Email,0,Patrick Sexton,"9285 Thomas Circles
+South Tyler, DE 38599","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1222,other,2024-07-11,Customer service disappointing. Sad!,English,1.922850536991589,Telephone,7,Anthony Hartman,"1360 Ayala Isle
+West Grantborough, OH 25672","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1223,web branch,2024-07-13,Web branch needs fixing.,English,2.0691773754243545,Telephone,8,Ricky Gibson,"46732 Cheryl Vista
+South Karentown, HI 76591","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1224,atm,2024-07-15,ATM broken again. Terrible!,English,2.020074879545683,Telephone,7,Daniel Morales,"6454 Hill Shore Suite 667
+Williamston, VI 71093","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1225,checking,2024-07-17,Checking account mishandled. Fix!,English,2.2002995212520036,Telephone,10,Cheryl King,"59458 Woods Squares
+Rodriguezhaven, ND 20724","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1226,bill pay,2024-07-19,Bill pay failed. Upset!,English,1.7685442027259475,Telephone,7,Andre Christensen,"625 Andrew Mall
+New Lawrence, MO 56919","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1227,credit or debit card,2024-07-21,Card declined. No reason.,English,1.760726350808179,Telephone,7,Frank Miller,"0697 Karen Plaza Apt. 568
+Jasontown, ME 12651","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1228,other,2024-07-23,Unhelpful customer service. Unacceptable!,English,1.8936523471374058,Telephone,8,Elizabeth Smith,"4317 Lynn Port
+North Hannahville, RI 89213","Okay for number 18 make the responses very short. 
+                 Four words or less.",18,Chat GPT 4.0
+1229,web branch,2024-07-25,Web branch down. Again!,English,1.878659813073263,Telephone,5,Tracy Jenkins,"2582 Raymond Neck Apt. 180
+South Matthewside, SD 58827",Make number 19 with short comments too.,19,Chat GPT 4.0
+1230,atm,2024-07-27,ATM not working. Frustrating!,English,2.1113059474350906,Telephone,3,Kristina Mejia,"316 Brandon Springs Apt. 788
+Yvonneburgh, VT 77052",Make number 19 with short comments too.,19,Chat GPT 4.0
+1231,checking,2024-07-29,Checking account errors. Please fix!,English,2.0720451289784187,Telephone,7,Amy Thomas,"4643 Hughes Burg
+New Kelly, MH 06493",Make number 19 with short comments too.,19,Chat GPT 4.0
+1232,bill pay,2024-07-31,Bill pay unreliable. Upset!,English,2.186688514094796,Telephone,8,Wayne Madden,"44092 Joe Drives Suite 761
+Reynoldsburgh, HI 29991",Make number 19 with short comments too.,19,Chat GPT 4.0
+1233,credit or debit card,2024-08-02,Card blocked. No explanation!,English,2.131250546653049,Telephone,8,David Martinez,"309 Jeremy Forks
+East Julie, SD 89199",Make number 19 with short comments too.,19,Chat GPT 4.0
+1234,other,2024-08-04,Customer service poor. Disappointing!,English,0.9515849904750063,SMS,8,Roy Buck,"67547 Erickson Glens
+Mayton, RI 03561",Make number 19 with short comments too.,19,Chat GPT 4.0
+1235,web branch,2024-08-06,Web branch faulty. Fix it!,English,1.3585348838570444,Telephone,9,Gabrielle Anderson,"PSC 3046, Box 8620
+APO AE 08750",Make number 19 with short comments too.,19,Chat GPT 4.0
+1236,atm,2024-08-08,ATM issues. Sort out!,English,1.201177210255777,Email,0,Jon Moore,"664 Morgan Drive Apt. 031
+Ashleybury, RI 36693",Make number 19 with short comments too.,19,Chat GPT 4.0
+1237,checking,2024-08-10,Checking account mishandled. Resolve!,English,1.4758973003682796,Telephone,8,Ruth Smith,"46590 Warren Lodge
+West Wesleyberg, VI 77229",Make number 19 with short comments too.,19,Chat GPT 4.0
+1238,bill pay,2024-08-12,Bill pay issues. Annoyed!,English,0.9893744977759338,Telephone,5,Dustin Gallegos,"595 Campbell Freeway
+Webbmouth, PR 29701",Make number 19 with short comments too.,19,Chat GPT 4.0
+1239,credit or debit card,2024-08-14,Card declined. Reason? Unacceptable!,English,1.0266480715825472,Telephone,4,Gregory Gilbert,"64173 Brian Cove
+East Sherryshire, NE 90808",Make number 19 with short comments too.,19,Chat GPT 4.0
+1240,other,2024-08-16,Customer service unresponsive. Terrible!,English,0.9853990553394314,Email,4,Joanne Torres,"282 Anderson Streets
+South Ashley, FM 50741",Make number 19 with short comments too.,19,Chat GPT 4.0
+1241,web branch,2024-08-18,"Kindly notice the regular disruptions on the web branch, it's quite disconcerting.",English,1.1397951060388114,SMS,7,John Peters,"7656 Chen Tunnel Suite 744
+East Glenn, LA 18051",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1242,atm,2024-08-20,It appears your ATM has been out of order quite often. Would you please look into this matter?,English,1.4019694490597445,Email,7,Danielle Michael DDS,"42923 Ferguson Parks
+Port Dean, ME 63612",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1243,checking,2024-08-22,Just a quick note to bring to your attention some errors in my checking account. Your help would be much appreciated.,English,1.2542671489496373,SMS,9,Tanya Campbell,"190 Jason Shoals Apt. 804
+Port Justin, MN 64377",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1244,bill pay,2024-08-24,I regret to inform you that the bill pay feature isn't quite as reliable as I'd hoped. Could you please rectify this issue?,English,1.4257288758803324,Email,8,Madison Lamb,"08398 Cassie Valley Suite 061
+Lake Patrick, VI 88277",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1245,credit or debit card,2024-08-26,I'm a tad bit frustrated as my card was blocked again without any prior notice. Would you be so kind to investigate this?,English,0.9546776637604939,SMS,8,Monica Stark,"6765 Johnson Motorway Suite 426
+Port Johnshire, WY 69115",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1246,other,2024-08-28,"With all due respect, I find the customer service somewhat lacking in assistance. I'm hopeful for improvements.",English,0.9687299371607244,Telephone,8,Sharon Watts,"846 Watson Hills Suite 170
+Edwardhaven, MI 20244",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1247,web branch,2024-08-30,"I regret to say, the web branch seems to be frequently non-functional. Might you consider fixing it?",English,0.9856518893245024,Email,0,Casey Schroeder,"3070 Rachel Springs
+Clarkstad, AR 34968",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1248,atm,2024-09-01,I've noticed your ATM is often non-operational. I believe it's high time to address this issue.,English,0.9963543134216618,Email,9,Beth Ramirez,"USNS Conner
+FPO AE 69764",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1249,checking,2024-09-03,"With all due respect, I find some discrepancies in my checking account. I kindly request your immediate attention to this matter.",English,0.8448872538635167,Email,9,Jacqueline Huynh,"4916 Melissa Circles Suite 513
+Erichaven, WI 93092",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1250,bill pay,2024-09-05,The bill pay service seems to have failed yet again. Could you be so kind as to rectify this issue at your earliest convenience?,English,1.6887457519414304,Telephone,5,Melanie Ayala,"PSC 5793, Box 2036
+APO AP 41831",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1251,credit or debit card,2024-09-07,"Sadly, my card was declined without an apparent reason. I trust that you'll resolve this issue promptly.",English,1.8764461859588215,Telephone,7,Ronald Romero,"11213 Phyllis Villages
+Lake Luis, OK 75262",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1252,other,2024-09-09,May I kindly point out that your customer service seems a little unresponsive? Your attention to this matter would be highly appreciated.,English,1.8070539616608843,Telephone,3,Jonathan Estes,"61699 Christian Curve
+East Alexisview, MA 58634",Make me a new set of complaints where the customer mad but extra polite.,20,Chat GPT 4.0
+1253,web branch,2024-09-11,Would you be so kind as to address the continuous downtime of the web branch? It's quite bothersome.,English,1.7802193279800065,Telephone,3,Brett Nelson,"3267 Diana Parkway
+New Jesse, SC 93379",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1254,atm,2024-09-13,It seems the ATM is frequently out of order. I would sincerely appreciate it if you could look into this matter.,English,1.500439486087404,Telephone,0,Bradley Briggs,"4992 James Park Apt. 492
+East Justinmouth, AK 95341",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1255,checking,2024-09-15,I'm afraid there seem to be some errors in my checking account. Would you mind addressing this concern?,English,1.4714590735609987,Telephone,0,Nicholas George,"85516 Renee Village
+Lake Renee, NV 73955",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1256,bill pay,2024-09-17,"Unfortunately, I find the bill pay service a bit inconsistent. I would be very grateful if you could rectify this.",English,1.373408634689945,Telephone,9,Cesar Robinson,"111 Michael Manor Suite 645
+New Jasonmouth, GU 10754",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1257,credit or debit card,2024-09-19,"Regrettably, my card was blocked once more without a clear reason. Could you kindly look into this matter?",English,1.7572089564535158,Telephone,3,Eric Carter,"0769 Gray Spur Suite 524
+Port Lindsey, MI 59179",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1258,other,2024-09-21,"I find the customer service slightly inadequate, though I'm confident you will take steps to improve this.",English,1.54881266889791,Telephone,8,Troy Davis,"PSC 0550, Box 7869
+APO AP 73476",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1259,web branch,2024-09-23,"I hate to bring this up, but the web branch seems to be non-operational frequently. Could you perhaps see to this?",English,1.6983652588288742,Telephone,7,Andrew Bridges,"34393 Mack Junctions Apt. 004
+Beckerborough, TX 52173",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1260,atm,2024-09-25,The ATM appears to be non-functional quite often. I trust you'll take appropriate measures to fix this.,English,1.6267516179259278,Telephone,6,Christine Martinez,"331 Russo Point
+New Cassidyberg, FL 95603",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1261,checking,2024-09-27,I'm afraid there are some discrepancies in my checking account. I kindly ask for your prompt attention to resolve this.,English,1.7524081871751536,Telephone,6,Vanessa Wu,"77445 Michael Circles Apt. 089
+Trevorburgh, TX 75598",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1262,bill pay,2024-09-29,"Regrettably, the bill pay service seems to have failed again. I would appreciate your assistance in rectifying this issue.",English,1.645308488253836,Telephone,5,Dawn Foley,"948 Tammy Crescent
+South Joseph, IA 71607",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1263,credit or debit card,2024-10-01,"I'm slightly concerned that my card was declined without any clear explanation. Could you investigate this, please?",English,1.7476749173085473,Telephone,10,Timothy Wagner,"163 Laurie Hill
+Lake Laurenshire, AZ 49085",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1264,other,2024-10-03,"I must note, your customer service does appear to be a tad unresponsive. I trust you'll take steps to improve this.",English,1.848830825630178,Telephone,3,Marcus Clarke,"5847 Mcguire Vista
+North Michaelburgh, AR 19777",For number 21 make another set of polite complaints.,21,Chat GPT 4.0
+1265,web branch,2023-06-01,I am unable to access the web branch. It keeps giving me an error message.,English,1.5517822006879867,Telephone,3,Taylor Wright,"69993 Ward Shores
+South Stacey, MH 56237","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.
+                 Please provide that in the format of a Python dictionary like the following.
+                 Each key in the dictionary will be the column name. Then the value will be a list that contains the data from the column.",22,Chat GPT 3.5
+1266,atm,2023-06-05,The ATM charged me twice for the same transaction. I need a refund.,English,2.027109393259933,Telephone,0,Melissa Cole,"65590 Laurie Ford Suite 922
+North Tiffanymouth, UT 18362","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.
+                 Please provide that in the format of a Python dictionary like the following.
+                 Each key in the dictionary will be the column name. Then the value will be a list that contains the data from the column.",22,Chat GPT 3.5
+1267,checking,2023-06-10,There is an error in my checking account statement. The balance is incorrect.,English,1.0664795787690626,Telephone,9,Bruce Hall,"651 Brock Valley
+Port Matthew, TX 13635","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.
+                 Please provide that in the format of a Python dictionary like the following.
+                 Each key in the dictionary will be the column name. Then the value will be a list that contains the data from the column.",22,Chat GPT 3.5
+1268,bill pay,2023-06-15,The bill pay feature is not working. I cannot make any payments.,English,1.2402453742555697,Email,9,Hannah Vang MD,"4699 Carla Mills Apt. 998
+North Seanborough, HI 47951","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.
+                 Please provide that in the format of a Python dictionary like the following.
+                 Each key in the dictionary will be the column name. Then the value will be a list that contains the data from the column.",22,Chat GPT 3.5
+1269,credit or debit card,2023-06-20,My credit card got declined even though I have available credit. Please resolve this issue.,English,1.120413066186694,Email,7,Ariel Jones,"79238 Villarreal Court Apt. 377
+Port Scottville, OR 64458","I need help creating a dataset. The dataset will consist of customer complaints about baking products.
+                 Please make the data for me including a complaint that a customer would write.
+                 Please provide that in the format of a Python dictionary like the following.
+                 Each key in the dictionary will be the column name. Then the value will be a list that contains the data from the column.",22,Chat GPT 3.5
+1270,web branch,2023-06-01,I am unable to log into the web branch. It keeps showing an error message.,English,1.1157863763195088,Telephone,0,David Fernandez,"95358 Jason Points Apt. 687
+Juliafort, CO 11600",Do another version with diff complaints.,23,Chat GPT 3.5
+1271,atm,2023-06-05,The ATM swallowed my card and did not dispense any cash. I need assistance.,English,1.2007284315271949,Email,8,Lindsay Scott,"Unit 0322 Box 9678
+DPO AA 85427",Do another version with diff complaints.,23,Chat GPT 3.5
+1272,checking,2023-06-10,There is an unauthorized transaction in my checking account. Please investigate.,English,1.3896604073974173,Telephone,9,Maria Velasquez DVM,"61896 Wilson Falls
+Davidport, NV 10894",Do another version with diff complaints.,23,Chat GPT 3.5
+1273,bill pay,2023-06-15,The bill pay service deducted the wrong amount from my account. I want a refund.,English,1.4072255571198722,Telephone,7,Kimberly Beard,"USNV Klein
+FPO AA 15113",Do another version with diff complaints.,23,Chat GPT 3.5
+1274,other,2023-06-20,I have been charged a fee for a service I never signed up for. This is unacceptable.,English,1.155724287828177,Email,10,Bethany Stewart,"6324 Wells Shore
+South Andreastad, MS 87347",Do another version with diff complaints.,23,Chat GPT 3.5
+1275,credit or debit card,2023-06-01,I noticed unauthorized transactions on my credit card statement. Please help me resolve this issue.,English,1.3822631397068197,SMS,9,Robert Curry,"3272 Laura Trafficway Apt. 769
+Nicholaston, IN 95872",Make new set of complaints about suspicious transactions.,24,Chat GPT 3.5
+1276,checking,2023-06-05,There is an unknown withdrawal from my checking account. I did not authorize this transaction.,English,1.5654783590225338,SMS,0,Adam Russell,"PSC 8166, Box 3211
+APO AA 78358",Make new set of complaints about suspicious transactions.,24,Chat GPT 3.5
+1277,atm,2023-06-10,The ATM gave me counterfeit currency. I want to report this incident and get my money back.,English,1.4268964785875418,SMS,9,Willie Cannon MD,"311 Kyle Flats Apt. 370
+Solisstad, FM 58968",Make new set of complaints about suspicious transactions.,24,Chat GPT 3.5
+1278,other,2023-06-15,I received a suspicious email asking for my banking details. This seems like a phishing attempt.,English,1.6315436208372818,SMS,8,Samantha Ellison,"311 Sanchez Mill Apt. 965
+New Shawn, ME 65787",Make new set of complaints about suspicious transactions.,24,Chat GPT 3.5
+1279,bill pay,2023-06-20,"I made a bill payment, but the recipient claims they never received the funds. Please investigate.",English,0.9897097448418104,SMS,0,Crystal Duffy,"15844 Gray Way Apt. 517
+Garciafort, WA 19231",Make new set of complaints about suspicious transactions.,24,Chat GPT 3.5
+1280,credit or debit card,2023-06-01,"My credit card was stolen, and unauthorized transactions are appearing on my statement.",English,1.1047803539681698,Email,4,Brandon Clark,"115 Julia Fall Suite 569
+South Janiceview, AR 63933",Make a set of complaints about a stolen card.,25,Chat GPT 3.5
+1281,credit or debit card,2023-06-05,"I lost my debit card, and someone used it to make fraudulent purchases. I need assistance.",English,1.5781849456885386,Telephone,8,Thomas Gomez,"1053 Lisa Lights Apt. 965
+Derrickview, AS 64787",Make a set of complaints about a stolen card.,25,Chat GPT 3.5
+1282,credit or debit card,2023-06-10,"My wallet was stolen, and my debit card was inside. Please block the card and issue a new one.",English,1.5859357181003404,Telephone,3,Donna Anthony,"092 Vaughn Glen
+Brookechester, NJ 98060",Make a set of complaints about a stolen card.,25,Chat GPT 3.5
+1283,credit or debit card,2023-06-15,I suspect that my credit card information has been compromised. I need to report this and secure my account.,English,1.4759945002499064,Telephone,8,Bradley Clark,"90942 Dennis Island
+Port Leslie, IA 96493",Make a set of complaints about a stolen card.,25,Chat GPT 3.5
+1284,credit or debit card,2023-06-20,"I misplaced my debit card, and now I can't find it anywhere. Please help me cancel the card and prevent any misuse.",English,1.6109561784137352,Telephone,0,Nathaniel Oconnor,"845 James Gateway Apt. 734
+Lake Shannonton, IL 18059",Make a set of complaints about a stolen card.,25,Chat GPT 3.5
+1285,other,2023-06-01,The banking app keeps crashing whenever I try to log in. It is very frustrating.,English,1.6867165071320944,Telephone,3,Eric Brennan,"07978 Wright Parks
+Clineville, GU 62054","Make a set of complaints about the banking app. 
+                 So of course the category is other.",26,Chat GPT 3.5
+1286,other,2023-06-05,I cannot transfer funds using the banking app. It gives me an error message every time.,English,1.969258133200913,Telephone,1,Charles Jones,"561 Jasmine Vista
+Lake Anthony, OR 97850","Make a set of complaints about the banking app. 
+                 So of course the category is other.",26,Chat GPT 3.5
+1287,other,2023-06-10,The transaction history in the banking app is not updating. It does not show my recent transactions.,English,1.9176779242349165,Telephone,4,Dana Hawkins,"56870 Knox Camp Suite 091
+South Christinechester, NV 50386","Make a set of complaints about the banking app. 
+                 So of course the category is other.",26,Chat GPT 3.5
+1288,other,2023-06-15,I am unable to set up a new payee through the banking app. It seems to be a technical glitch.,English,2.006603320222522,Telephone,7,Martin Hodge,"4684 Cameron Burg Suite 930
+Port Marthatown, GA 50105","Make a set of complaints about the banking app. 
+                 So of course the category is other.",26,Chat GPT 3.5
+1289,other,2023-06-20,The banking app is not displaying my account balance correctly. It shows an inaccurate balance.,English,1.8752347626541621,Telephone,3,Bonnie Miller,"15853 Thomas Inlet
+Susantown, KS 74655","Make a set of complaints about the banking app. 
+                 So of course the category is other.",26,Chat GPT 3.5
+1290,other,2023-06-01,"I am using the banking app on my Android phone, and it frequently freezes or becomes unresponsive.",English,2.2638264255706217,Telephone,2,Danielle Perry,"05098 Harrison Manor Suite 604
+Silvafort, AZ 53198","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",27,Chat GPT 3.5
+1291,other,2023-06-05,The banking app on my Android phone is not compatible with the latest operating system update. Please fix this issue.,English,1.9916696755270173,Telephone,0,Daniel Jarvis,"6541 Robertson View
+Kristinside, CT 15164","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",27,Chat GPT 3.5
+1292,other,2023-06-10,I am unable to access certain features of the banking app on my Android phone. It seems to be a compatibility problem.,English,1.7549098554537856,Telephone,7,Melissa Kim,"968 Brandon Walks Apt. 579
+East Brittany, TN 22865","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",27,Chat GPT 3.5
+1293,other,2023-06-15,The banking app crashes repeatedly on my Android phone whenever I try to initiate a transaction.,English,1.9315405751607262,Telephone,1,Gloria Taylor,"1257 Kelly Passage Apt. 154
+Davidfurt, ID 12324","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",27,Chat GPT 3.5
+1294,other,2023-06-20,The user interface of the banking app on my Android phone is poorly designed and difficult to navigate.,English,0.8972995346469348,SMS,0,John Jacobs,"50475 Collins Forges
+Lake Rachelhaven, WI 90470","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",27,Chat GPT 3.5
+1295,credit or debit card,2023-06-01,"I am using the banking app on my Android phone, and it frequently freezes or becomes unresponsive.",English,0.9740182867447054,Email,5,Michael Townsend,"678 Jackson Branch Suite 191
+Port Lindafurt, SC 87869","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",28,Chat GPT 3.5
+1296,checking,2023-06-05,The banking app on my Android phone is not compatible with the latest operating system update. Please fix this issue.,English,0.9595254467606195,Telephone,4,Brandi Ibarra,"9552 Sarah Village
+New Walter, NH 78370","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",28,Chat GPT 3.5
+1297,atm,2023-06-10,I am unable to access certain features of the banking app on my Android phone. It seems to be a compatibility problem.,English,1.3373982701369105,Telephone,7,Heidi Jenkins,"708 Allison Forge Suite 596
+Dianefurt, GA 26667","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",28,Chat GPT 3.5
+1298,other,2023-06-15,The banking app crashes repeatedly on my Android phone whenever I try to initiate a transaction.,English,1.833901667971325,SMS,7,Allison Miller,"716 Adam Plain Apt. 981
+Johnsonborough, MN 31227","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",28,Chat GPT 3.5
+1299,bill pay,2023-06-20,The user interface of the banking app on my Android phone is poorly designed and difficult to navigate.,English,2.0185195481211466,Telephone,6,Stephen Moreno,"89483 Wolf Passage Suite 401
+West Willie, ID 19558","Make a set of complaints about the banking app. 
+                 So of course the category is other.
+                 Also they mention that they're using an android phone.",28,Chat GPT 3.5
+1300,web branch,2023-06-01,"Oh, what a surprise! The web branch is down again. Who needs access to their money anyway?",English,1.565759120483457,SMS,3,Jerry Larsen,"280 Brock Mission
+Tracieport, VA 69625","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",28,Chat GPT 3.5
+1301,atm,2023-06-05,The ATM never fails to make me wait for ages. It is soooo considerate of it to steal my time.,English,1.7016100719732983,Telephone,3,Julian Kirk,"9052 Paul Centers Suite 755
+Nealberg, CA 66796","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",28,Chat GPT 3.5
+1302,checking,2023-06-10,"Wow, my checking account balance is magically disappearing. This must be a new feature!",English,1.1153371104610668,Telephone,8,Kathleen Owen,"Unit 7691 Box 5333
+DPO AE 54551","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",28,Chat GPT 3.5
+1303,bill pay,2023-06-15,"Bill pay, more like bill delay. The payments never go through on time. Thanks for keeping me on my toes!",English,1.0849502057547036,Telephone,6,Rose Wilkerson,"319 Kevin Lock Apt. 390
+North Robertfort, VT 79153","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",28,Chat GPT 3.5
+1304,credit or debit card,2023-06-20,My credit card seems to have a mind of its own. It loves declining at the most inconvenient moments. How thoughtful!,English,1.0810084662544506,Email,9,Manuel Keith,"247 Kathryn Burgs
+East Steve, HI 56541","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",28,Chat GPT 3.5
+1305,other,2023-06-22,"Oh, you have an ""other"" category for my complaint? How convenient! Let me guess, you'll do absolutely nothing about it.",English,1.0848065719251432,SMS,9,Kathryn Reed,"53564 Ramsey Springs
+Karenmouth, RI 08513","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",28,Chat GPT 3.5
+1306,web branch,2023-06-25,Hooray! The web branch is finally back up after two days of downtime. I can now pretend to manage my nonexistent money!,English,1.4205136447253197,Telephone,9,Danielle Hanson,"8683 Wheeler Haven
+Annstad, PA 71534","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",28,Chat GPT 3.5
+1307,web branch,2023-06-01,"Oh, the web branch is down again? How unexpected! I was looking forward to not managing my finances today.",English,1.3747574031131882,Telephone,10,Wendy Moreno,"512 Mcdonald Courts Apt. 274
+Choiberg, GU 70824","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1308,atm,2023-06-05,"Thank you, ATM, for making me wait forever just to tell me ""out of order."" Your commitment to inconvenience is truly commendable.",English,1.4437351010689172,Telephone,9,Rebecca Smith,"90011 Sheila Garden Suite 205
+New Brenda, HI 39822","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1309,checking,2023-06-10,I am amazed at how my checking account magically disappears faster than a magicians disappearing act. Poof! Money gone!,English,1.3728069027566925,Telephone,8,Martin Hall,"71386 Garza Park Apt. 563
+Port Melanietown, IA 05474","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1310,bill pay,2023-06-15,"Bill pay, more like bill delay. I love waiting anxiously to see if my payments will go through before the next millennium.",English,1.1502501210505294,SMS,7,Bradley Williams,"453 Nicole Forest
+Lake Jennifer, MO 99073","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1311,credit or debit card,2023-06-20,"My credit card has become an expert at saying ""declined"" at the most exciting moments. Such a tease!",English,1.0117319003114185,Email,4,Mark Guerrero,"PSC 6209, Box 9941
+APO AE 84057","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1312,other,2023-06-22,"Oh, look! Another ""other"" category. I bet this complaint will vanish into thin air, just like my trust in your services.",English,1.020961419361449,Telephone,9,Melissa Dean,"8273 Sawyer Club
+East Tonyashire, HI 06811","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1313,web branch,2023-06-25,"Oh, the web branch is back up! Let's celebrate this momentous occasion with a round of applause for its intermittent functionality.",English,1.0518004476182716,Email,4,Michael Todd,"79713 Jessica Station Apt. 031
+New Calebmouth, NY 03659","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1314,checking,2023-06-28,I must commend your bank for providing an exceptional service of never updating my account balance. It keeps life thrilling!,English,1.3142029802584176,Telephone,4,Annette Vance,"6472 Gordon Brook
+Lake Robert, OH 72807","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1315,atm,2023-06-29,"Bravo, ATM! You have successfully swallowed my card once again. Can't wait to go through the hassle of getting a new one.",English,1.4929096021905686,Telephone,7,Dennis Raymond III,"62261 Anderson Viaduct Apt. 357
+Lake Pamela, MA 32175","Make a set of complaints from sarcastic customers.
+                 Instead of 5 complains. Give me 7.",29,Chat GPT 3.5
+1316,web branch,2023-06-01,The web branch is frequently experiencing errors. It's errors are dumb. Making it difficult to manage my finances online.,English,1.5005344018810698,Telephone,3,Nathan Brennan,"124 Marcus Viaduct Suite 950
+Matthewburgh, UT 36456",Do another set of generic complaints.,29,Chat GPT 3.5
+1317,atm,2023-06-05,The ATM often runs out of cash. It's so convenient when I need money. Thanks for nothing!,English,1.7234775790557881,Telephone,5,Andres Kennedy,"290 Farrell Road Apt. 410
+Karinaport, GA 19990",Do another set of generic complaints.,29,Chat GPT 3.5
+1318,checking,2023-06-10,There are discrepancies in my checking account statements. Balances are a mystery. Good luck figuring it out!,English,1.144116218177787,SMS,8,Tara James,"18152 Tara Lake Apt. 299
+West Briannaborough, IL 95401",Do another set of generic complaints.,29,Chat GPT 3.5
+1319,bill pay,2023-06-15,The bill pay feature is unreliable. Payments get lost in the void. Guess I'll just keep waiting.,English,1.411097946829798,Email,7,Caroline Hoover,"85762 Sarah Passage Suite 575
+Kimberlybury, NV 72444",Do another set of generic complaints.,29,Chat GPT 3.5
+1320,credit or debit card,2023-06-20,I frequently encounter issues with my credit or debit card. It loves declining at the worst times. Such a helpful card!,English,1.3517848085835615,Email,0,Steve Rodriguez,"4843 Edwards Inlet
+South Christophertown, VI 32980",Do another set of generic complaints.,29,Chat GPT 3.5
+1321,other,2023-06-22,The customer service provided for other banking-related matters is unsatisfactory. They really excel at not helping.,English,1.1752022222502552,Email,4,Brittany Baker,"82711 Melanie Mount Suite 432
+Martintown, LA 12332",Do another set of generic complaints.,29,Chat GPT 3.5
+1322,web branch,2023-06-25,The web branch experiences frequent outages. Who needs access to their money anyways? Time for a forced break!,English,1.1358007737993705,Email,3,Emily Black,"04195 Mckinney Manors
+South Christinafort, NE 52586",Do another set of generic complaints.,29,Chat GPT 3.5
+1323,checking,2023-06-28,There are recurring problems with my checking account. Fees keep multiplying. A financial surprise every day!,English,1.0899750940707653,Email,9,Raymond Branch,"955 Jeffrey Inlet
+North Helenstad, GA 88889",Do another set of generic complaints.,29,Chat GPT 3.5
+1324,atm,2023-06-29,The ATMs often have technical malfunctions. Failed transactions are a special treat. Such a smooth experience!,English,1.3184835590384891,Telephone,9,Krista Stephens,"858 Charles Throughway Apt. 120
+Jacobmouth, IA 28304",Do another set of generic complaints.,29,Chat GPT 3.5
+1325,web branch,2023-06-01,"The web branch constantly crashes, making it impossible to perform any transactions.",English,1.0688827003976424,Email,4,Timothy Hill,"340 Lynn Extensions
+Taylorberg, ME 86441",Try for 12 complaints.,29,Chat GPT 3.5
+1326,atm,2023-06-05,"The ATM never has enough cash, leaving customers in need of money stranded.",English,0.9294117285712425,SMS,8,Joseph Jackson,"5288 Dorsey Court Apt. 113
+Lake April, MI 07873",Try for 12 complaints.,29,Chat GPT 3.5
+1327,checking,2023-06-10,"I keep getting charged unnecessary fees on my checking account, and it's infuriating.",English,1.17306597297178,SMS,7,Kelly Frederick,"77856 Green Haven Apt. 701
+South Jillianberg, GU 57095",Try for 12 complaints.,29,Chat GPT 3.5
+1328,bill pay,2023-06-15,The bill pay service is unreliable and often fails to process payments on time.,English,1.4681661280205012,SMS,0,Joseph Moore,"50015 Rodriguez Ferry
+North Mark, NM 96206",Try for 12 complaints.,29,Chat GPT 3.5
+1329,credit or debit card,2023-06-20,"My credit card keeps getting declined for unknown reasons, causing embarrassment.",English,1.705359717387987,SMS,10,Mark Henry,"28854 Stevens Skyway Apt. 811
+East Jacob, WI 90769",Try for 12 complaints.,29,Chat GPT 3.5
+1330,other,2023-06-22,The customer support for other banking-related issues is utterly unhelpful and rude.,English,0.9384621804092854,Email,8,Jennifer Rivera,"580 Theresa Courts Suite 771
+Carrport, MN 67756",Try for 12 complaints.,29,Chat GPT 3.5
+1331,web branch,2023-06-25,"The web branch is down more often than it's up, disrupting my banking routine.",English,0.85116038872332,SMS,4,Gary Martinez,"10878 Phillips Trail
+Lopezside, MT 04130",Try for 12 complaints.,29,Chat GPT 3.5
+1332,checking,2023-06-28,"I've noticed suspicious transactions on my checking account, and the bank is unresponsive.",English,1.1212302803471887,Email,9,Stephen Mathis,"97425 Anna Crescent Suite 092
+Washingtonchester, KS 81291",Try for 12 complaints.,29,Chat GPT 3.5
+1333,atm,2023-07-01,"The ATM ate my card without any explanation, leaving me without access to my funds.",English,1.0391150199050188,SMS,8,Adam Kramer,"6825 William Lane
+Flowerstown, ME 69283",Try for 12 complaints.,29,Chat GPT 3.5
+1334,bill pay,2023-07-05,"Bill pay regularly deducts incorrect amounts from my account, causing financial stress.",English,1.399303865601962,Email,9,Pamela Macdonald,"954 Pamela Villages Apt. 887
+West Tammy, NY 78325",Try for 12 complaints.,29,Chat GPT 3.5
+1335,credit or debit card,2023-07-10,"My credit card statement is full of erroneous charges, and it's a nightmare to dispute them.",English,1.271632772067499,Email,10,Kelly Sanchez MD,"092 Jones Vista Apt. 998
+Payneshire, OK 67697",Try for 12 complaints.,29,Chat GPT 3.5
+1336,other,2023-07-15,"The bank's response to other issues has been dismissive and neglectful, ignoring my concerns.",English,1.209373048101969,SMS,4,Laurie Robinson,"2556 Johnson Road
+New Amy, ME 97848",Try for 12 complaints.,29,Chat GPT 3.5
+1337,web branch,2023-06-01,"The web branch is constantly slow, making simple transactions a frustrating ordeal.",English,1.4833085691307613,Telephone,9,Regina Mejia,"1215 Norris Street
+New Kevintown, MD 32607",Try for 12 complaints.,29,Chat GPT 3.5
+1338,atm,2023-06-05,"The ATM charges exorbitant fees for withdrawals, draining my account.",English,1.2034456351340619,Email,10,Heather Bender,"904 Cooper Branch Apt. 071
+Port Curtishaven, OK 98428",Try for 12 complaints.,29,Chat GPT 3.5
+1339,checking,2023-06-10,"There are always errors in my checking account statement, making it difficult to keep track of my finances.",English,1.25988987628549,Telephone,0,Bryan Palmer,"4744 Mary Crossing
+East Thomas, NM 87535",Try for 12 complaints.,29,Chat GPT 3.5
+1340,bill pay,2023-06-15,"The bill pay system frequently fails to process payments on time, causing unnecessary late fees.",English,1.3619624333969587,Telephone,5,Morgan Obrien,"5057 Edward Radial
+North Denise, CO 05675",Try for 12 complaints.,29,Chat GPT 3.5
+1341,credit or debit card,2023-06-20,"My credit card has a ridiculously high interest rate, making it hard to pay off my balance.",English,1.376574139796025,Telephone,9,Kellie Jefferson,"386 Taylor Brook
+Port Julie, MN 73773",Try for 12 complaints.,29,Chat GPT 3.5
+1342,other,2023-06-22,The customer service for other banking matters is unresponsive and unhelpful.,English,1.398680315058935,Telephone,9,Debra Turner,"408 Brooks Light
+Williamside, TX 91751",Try for 12 complaints.,29,Chat GPT 3.5
+1343,web branch,2023-06-25,"The web branch interface is outdated and confusing, making it hard to navigate.",English,1.2215866222146146,Telephone,4,Robert Lee,"252 Mcclain Plain Apt. 619
+East Jerry, WV 72444",Try for 12 complaints.,29,Chat GPT 3.5
+1344,checking,2023-06-28,"There are unauthorized charges on my checking account, and the bank is slow to resolve the issue.",English,0.9018793026424959,Email,8,Maria Pratt,"08563 Jones Roads Apt. 062
+South Lauraborough, AL 36115",Try for 12 complaints.,29,Chat GPT 3.5
+1345,atm,2023-07-01,"The ATM is often out of service, forcing me to find alternative ways to access my money.",English,0.9315022017269391,Telephone,8,Brandy Hurst,"986 Danny Summit Apt. 433
+Jackieton, TN 98320",Try for 12 complaints.,29,Chat GPT 3.5
+1346,bill pay,2023-07-05,"Bill pay occasionally sends payments to the wrong recipients, leading to incorrect transactions.",English,0.8909296234127587,Email,4,Kristy Noble,"467 Douglas Loop Apt. 592
+Shawnside, ME 68628",Try for 12 complaints.,29,Chat GPT 3.5
+1347,credit or debit card,2023-07-10,"My credit card has hidden fees that were not disclosed, leaving me surprised by unexpected charges.",English,0.9946722218341358,Email,8,Angela Marshall,"75345 Taylor Overpass Apt. 136
+Port Briana, AR 11255",Try for 12 complaints.,29,Chat GPT 3.5
+1348,other,2023-07-15,"The bank fails to address other customer concerns promptly, showing a lack of care.",English,1.0002065874528443,Email,9,Elizabeth Peterson,"97837 Nicholas Creek
+Kurtberg, WY 36703",Try for 12 complaints.,29,Chat GPT 3.5
+1349,web branch,2023-07-20,"The web branch frequently logs me out automatically, disrupting my online banking sessions.",English,1.0314678648898779,Email,7,Christine Perez,"178 Valencia Dale
+South Aprilville, WA 79930",Try for 12 complaints.,29,Chat GPT 3.5
+1350,checking,2023-07-25,"There are inconsistencies in my checking account balance, making it hard to trust the accuracy of the numbers.",English,0.9957487004171716,Email,10,Pam Smith,"155 Cynthia Causeway Apt. 490
+New Barbarachester, AK 33972",Try for 12 complaints.,29,Chat GPT 3.5
+1351,web branch,2023-06-01,"The web branch is incredibly unreliable, often inaccessible when I need it the most.",English,1.1390858896573437,Telephone,4,Alyssa Moore,"09391 Parker Radial
+North Lonnie, WI 22086",Try for 12 complaints.,29,Chat GPT 3.5
+1352,atm,2023-06-05,"The ATM always gives out crumpled and torn bills, making them difficult to use.",English,1.0744452432514942,Telephone,4,Phyllis Walsh,"3567 Harvey Freeway
+Jesusmouth, KS 36443",Try for 12 complaints.,29,Chat GPT 3.5
+1353,checking,2023-06-10,"There are frequent errors in my checking account, causing unnecessary confusion and frustration.",English,1.142911441018775,Telephone,9,Peter Wallace,"PSC 8032, Box 6939
+APO AE 37525",Try for 12 complaints.,29,Chat GPT 3.5
+1354,bill pay,2023-06-15,"The bill pay service consistently fails to send payments on time, resulting in late fees.",English,1.1012129376598598,SMS,10,Jillian Jones,"61958 Chung Dam Apt. 639
+New Brettview, SC 88189",Try for 12 complaints.,29,Chat GPT 3.5
+1355,credit or debit card,2023-06-20,"My credit card has a ridiculously low credit limit, limiting my purchasing power.",English,1.1442200709718366,SMS,9,Jonathan Neal,"49211 Jones Extensions Apt. 264
+Ruizfort, PR 48666",Try for 12 complaints.,29,Chat GPT 3.5
+1356,other,2023-06-22,The customer service for other banking matters is unprofessional and untrained.,English,1.1498820762973132,Email,7,Michael Torres,"501 Mary Grove
+West Jason, TX 33419",Try for 12 complaints.,29,Chat GPT 3.5
+1357,web branch,2023-06-25,"The web branch lacks essential features and functionality, making it inadequate for banking needs.",English,1.202742224026531,Email,1,Joseph Bush,"441 Mayer Burg
+South Elizabeth, IL 65927",Try for 12 complaints.,29,Chat GPT 3.5
+1358,checking,2023-06-28,"There are unauthorized transactions on my checking account, and the bank is unresponsive.",English,1.3132434214235096,Email,9,Rachel Smith,"6711 Jennifer Corner Apt. 534
+Cummingshaven, WA 35098",Try for 12 complaints.,29,Chat GPT 3.5
+1359,atm,2023-07-01,"The ATM often runs out of cash, leaving customers stranded without access to money.",English,1.3295615905340208,Email,6,Ashley Hamilton,"2543 Phillips Mountain
+Port Theresastad, NC 97058",Try for 12 complaints.,29,Chat GPT 3.5
+1360,bill pay,2023-07-05,"Bill pay occasionally deducts incorrect amounts from my account, causing financial discrepancies.",English,1.7293530884499537,SMS,8,Amy Howard,"469 Duncan Divide
+Hodgesside, GA 91104",Try for 12 complaints.,29,Chat GPT 3.5
+1361,credit or debit card,2023-07-10,"My credit card has excessive annual fees, eating into my savings.",English,1.4974680377287248,SMS,4,Ms. Frances Griffith,"PSC 5324, Box 5641
+APO AP 98742",Try for 12 complaints.,29,Chat GPT 3.5
+1362,other,2023-07-15,The bank's response to other customer concerns is slow and lacks empathy.,English,1.501898846869888,Email,9,Amy Gould,"8119 Perez Track Apt. 591
+Port Alexisshire, KY 70035",Try for 12 complaints.,29,Chat GPT 3.5
+1363,web branch,2023-07-20,"The web branch frequently experiences system glitches, interrupting banking tasks.",English,1.4759001109790604,Email,9,John Hodges,"9423 Petersen Locks Apt. 631
+Taylorton, GU 80885",Try for 12 complaints.,29,Chat GPT 3.5
+1364,checking,2023-07-25,"There are hidden charges in my checking account, diminishing my trust in the bank.",English,1.6442500916416838,Telephone,3,Rodney Burke,"6634 David Rue Apt. 351
+Port Bethany, DE 00983",Try for 12 complaints.,29,Chat GPT 3.5
+1365,atm,2023-07-30,"The ATM frequently dispenses incorrect denominations, causing confusion during transactions.",English,1.8395364775902636,Telephone,3,Andrea Taylor,"8504 Cross Falls Apt. 873
+South Rita, AZ 93742",Try for 12 complaints.,29,Chat GPT 3.5
+1366,bill pay,2023-08-05,"Bill pay fails to provide accurate payment confirmations, leading to uncertainty and doubt.",English,1.585083807475271,Telephone,6,Andrea Gibson,"97914 Brett Mews
+Jillianstad, MP 67293",Try for 12 complaints.,29,Chat GPT 3.5
+1367,web branch,2023-06-01,I'm experiencing constant lag with the web branch. This is rather frustrating.,English,1.7600423161461933,Telephone,0,Jeremy Johnston,"558 Andrea Cape
+Marcfort, MS 34837",Make a set of 32 complaints.,30,Chat GPT 4.0
+1368,atm,2023-06-05,The ATM near my place is always out of service. This is very inconvenient.,English,1.3261719738741784,Telephone,8,Brandon Hester,"USNV Barnes
+FPO AA 46067",Make a set of 32 complaints.,30,Chat GPT 4.0
+1369,checking,2023-06-10,I noticed some discrepancies in my checking account. This is quite worrying.,English,1.3412289005060904,Telephone,8,Susan Mccoy,"Unit 4338 Box 3137
+DPO AE 10569",Make a set of 32 complaints.,30,Chat GPT 4.0
+1370,bill pay,2023-06-15,Bill pay service keeps failing. It’s causing a lot of unnecessary stress.,English,1.2189108266792454,Telephone,9,Amanda Forbes,"217 Rodriguez Lights Apt. 470
+Williamfurt, MA 56045",Make a set of 32 complaints.,30,Chat GPT 4.0
+1371,credit or debit card,2023-06-20,My card was blocked without any clear reason. This is quite alarming.,English,1.2549174143012514,Telephone,8,Rodney Waters,"Unit 2212 Box 6356
+DPO AP 52148",Make a set of 32 complaints.,30,Chat GPT 4.0
+1372,other,2023-06-22,Customer service isn't as responsive as I expected. This is disappointing.,English,1.2480615189305555,Telephone,9,Mark Berry,"USS Bird
+FPO AA 44399",Make a set of 32 complaints.,30,Chat GPT 4.0
+1373,web branch,2023-06-25,The web branch is constantly down. It’s becoming rather tiresome.,English,1.3939289297167385,Telephone,9,Courtney Gordon,"7200 Andrew Spur
+West Shannon, MD 50351",Make a set of 32 complaints.,30,Chat GPT 4.0
+1374,atm,2023-06-28,The ATM often refuses to dispense cash. This is very annoying.,English,1.4120221039392682,Telephone,4,Nicholas Valdez,"385 William Extensions Suite 259
+Hernandezborough, RI 02501",Make a set of 32 complaints.,30,Chat GPT 4.0
+1375,checking,2023-06-01,My checking account seems to have some errors. This needs to be fixed urgently.,English,1.577098735517912,Telephone,8,Dennis Fernandez,"48699 Black Mountains Suite 798
+Popefort, ID 08367",Make a set of 32 complaints.,30,Chat GPT 4.0
+1376,bill pay,2023-06-05,The bill pay service isn't functioning properly. It’s very irritating.,English,0.9857529546168143,SMS,4,Kyle Cook,"57064 Nicole Lake Apt. 769
+Ortizfurt, IA 39095",Make a set of 32 complaints.,30,Chat GPT 4.0
+1377,credit or debit card,2023-06-10,My card transactions are often declined without reason. This is very problematic.,English,1.008217788606274,Email,7,Michele Johnson,"44795 Anderson Valleys Apt. 927
+Lake Tracy, AL 92244",Make a set of 32 complaints.,30,Chat GPT 4.0
+1378,other,2023-06-15,Customer service always puts me on long holds. This needs to change.,English,1.0048609954080736,Email,4,Lisa Clark,"095 Natasha Mountain Suite 302
+West Scottville, AK 81690",Make a set of 32 complaints.,30,Chat GPT 4.0
+1379,web branch,2023-06-20,The web branch keeps crashing. It’s very disappointing.,English,1.125890539289606,Telephone,8,John Schmitt,"1311 Brandt Brook Apt. 641
+Jacobsfort, VT 93235",Make a set of 32 complaints.,30,Chat GPT 4.0
+1380,atm,2023-06-22,The ATM frequently runs out of cash. This is extremely inconvenient.,English,0.9975993656509416,Telephone,9,Christina Mcguire,"0689 Benton Land Suite 659
+North Robert, MA 01134",Make a set of 32 complaints.,30,Chat GPT 4.0
+1381,checking,2023-06-25,I've noticed some unauthorized charges on my checking account. This is alarming.,English,1.0557747733653846,Email,2,Michael Garcia,"69393 Baxter Trail
+Lake Adamburgh, MA 38281",Make a set of 32 complaints.,30,Chat GPT 4.0
+1382,bill pay,2023-06-28,Bill pay service doesn't process payments on time. It’s very frustrating.,English,1.0686302353943715,Email,9,Justin Hayes,"07088 David Trail
+Lake Meganhaven, AS 06972",Make a set of 32 complaints.,30,Chat GPT 4.0
+1383,credit or debit card,2023-06-01,My card was blocked for no apparent reason. This is quite disconcerting.,English,1.120417517097498,Email,0,Brenda Sanders,"16104 Jacob Throughway
+Port Wendy, PA 04988",Make a set of 32 complaints.,30,Chat GPT 4.0
+1384,other,2023-06-05,The customer service response time is very slow. This is not acceptable.,English,0.8933888807155609,Email,8,Brian Kaufman,"1388 Garrett Court Suite 381
+Davidmouth, ME 74068",Make a set of 32 complaints.,30,Chat GPT 4.0
+1385,web branch,2023-06-10,The web branch interface is not user-friendly. It's hard to navigate.,English,0.9192718419166731,Email,9,Christopher Gray,"56167 Wiggins Via
+Potterstad, KS 16392",Make a set of 32 complaints.,30,Chat GPT 4.0
+1386,atm,2023-06-15,The ATM is often out of service. It's quite troublesome.,English,0.942639022547253,Email,8,Edwin Patterson,"7118 Weiss Center Suite 130
+East Erin, MS 07403",Make a set of 32 complaints.,30,Chat GPT 4.0
+1387,checking,2023-06-20,My checking account balance seems incorrect. This needs to be addressed.,English,1.4523413142554857,Telephone,4,Autumn Ruiz,"524 Jason Stravenue Suite 538
+Jamesfurt, PR 63247",Make a set of 32 complaints.,30,Chat GPT 4.0
+1388,bill pay,2023-06-22,The bill pay service is inconsistent. It's causing a lot of inconvenience.,English,1.5040205231162158,Telephone,8,Vincent Mcclure,"4460 Amy Lakes Apt. 080
+Munozchester, WI 09356",Make a set of 32 complaints.,30,Chat GPT 4.0
+1389,credit or debit card,2023-06-25,My card was declined without any prior notification. This is very distressing.,English,1.288467488753733,Telephone,8,Craig Harvey,"763 Sims Rue
+New Meganfurt, AZ 24229",Make a set of 32 complaints.,30,Chat GPT 4.0
+1390,other,2023-06-28,Customer service representatives are often rude. This is very disappointing.,English,1.4052329581329583,Telephone,9,Roger Castaneda,"809 Alicia Harbors Suite 720
+Lake Williamhaven, PW 97379",Make a set of 32 complaints.,30,Chat GPT 4.0
+1391,web branch,2023-06-01,The web branch service is not up to par. It's quite disappointing.,English,1.2663938725006723,Email,8,Alicia Harris,"620 Butler Mountain
+Davidmouth, WV 59050",Make a set of 32 complaints.,30,Chat GPT 4.0
+1392,atm,2023-06-05,The ATM always dispenses only small denominations. This is quite bothersome.,English,1.1796114849881825,Telephone,2,Margaret Moore,"14059 Francis Park Apt. 076
+Matthewmouth, KS 83106",Make a set of 32 complaints.,30,Chat GPT 4.0
+1393,checking,2023-06-10,My checking account transactions are not updated promptly. This is concerning.,English,1.4761429354378057,Telephone,8,Elizabeth King,"9312 Davis Parkways Suite 083
+Haroldshire, NY 92045",Make a set of 32 complaints.,30,Chat GPT 4.0
+1394,bill pay,2023-06-15,The bill pay service often fails to process payments. It's causing a lot of headaches.,English,1.3354451725778538,Telephone,8,Zachary Baker,"Unit 3972 Box 6783
+DPO AE 21408",Make a set of 32 complaints.,30,Chat GPT 4.0
+1395,credit or debit card,2023-06-20,My card doesn't work at several terminals. This is quite annoying.,English,1.096009553861576,SMS,4,Miranda Rose,"975 Tucker Haven Suite 551
+Gomezside, NV 94023",Make a set of 32 complaints.,30,Chat GPT 4.0
+1396,other,2023-06-22,The customer service doesn't resolve my issues promptly. It's quite frustrating.,English,1.1169407584236501,Telephone,9,Matthew Guerrero DVM,"07886 Mcdowell Hills
+Kimberlyton, ME 05060",Make a set of 32 complaints.,30,Chat GPT 4.0
+1397,web branch,2023-06-25,The web branch often logs me out without any reason. This is highly inconvenient.,English,1.3524693858379708,Telephone,9,Laura Gaines,"512 Gerald Turnpike
+Brittanyport, CT 47592",Make a set of 32 complaints.,30,Chat GPT 4.0
+1398,atm,2023-06-28,The ATM often does not accept deposits. This is a major inconvenience.,English,1.4328946808897158,Telephone,10,Theresa Adkins,"3025 Brenda Overpass
+Scottbury, PR 76729",Make a set of 32 complaints.,30,Chat GPT 4.0
