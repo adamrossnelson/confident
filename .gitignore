@@ -133,3 +133,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specifics
+Automated_Automobile_Data_Report.html
