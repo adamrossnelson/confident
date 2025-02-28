@@ -1,16 +1,16 @@
-,mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,name
-335,35.0,4,122.0,88.0,2500,15.1,80,europe,triumph tr7 coupe
-79,26.0,4,96.0,69.0,2189,18.0,72,europe,renault 12 (sw)
-142,26.0,4,79.0,67.0,1963,15.5,74,europe,volkswagen dasher
-183,25.0,4,116.0,81.0,2220,16.9,76,europe,opel 1900
-141,29.0,4,98.0,83.0,2219,16.5,74,europe,audi fox
-319,31.3,4,120.0,75.0,2542,17.5,80,japan,mazda 626
-181,33.0,4,91.0,53.0,1795,17.5,75,japan,honda civic cvcc
-384,32.0,4,91.0,67.0,1965,15.7,82,japan,honda civic (auto)
-173,24.0,4,119.0,97.0,2545,17.0,75,japan,datsun 710
-267,27.5,4,134.0,95.0,2560,14.2,78,japan,toyota corona
-289,16.9,8,350.0,155.0,4360,14.9,79,usa,buick estate wagon (sw)
-1,15.0,8,350.0,165.0,3693,11.5,70,usa,buick skylark 320
-223,15.5,8,318.0,145.0,4140,13.7,77,usa,dodge monaco brougham
-302,34.5,4,105.0,70.0,2150,14.9,79,usa,plymouth horizon tc3
-301,34.2,4,105.0,70.0,2200,13.2,79,usa,plymouth horizon
+mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,name
+34.5,4,100.0,,2320,15.8,81,europe,renault 18i
+30.0,4,79.0,70.0,2074,19.5,71,europe,peugeot 304
+29.0,4,98.0,83.0,2219,16.5,74,europe,audi fox
+41.5,4,98.0,76.0,2144,14.7,80,europe,vw rabbit
+24.0,4,90.0,75.0,2108,15.5,74,europe,fiat 128
+30.0,4,97.0,67.0,1985,16.4,77,japan,subaru dl
+38.0,4,91.0,67.0,1965,15.0,82,japan,honda civic
+27.2,4,119.0,97.0,2300,14.7,78,japan,datsun 510
+31.6,4,120.0,74.0,2635,18.3,81,japan,mazda 626
+32.0,4,85.0,70.0,1990,17.0,76,japan,datsun b-210
+32.1,4,98.0,70.0,2120,15.5,80,usa,chevrolet chevette
+29.0,4,85.0,52.0,2035,22.2,76,usa,chevrolet chevette
+28.0,4,120.0,79.0,2625,18.6,82,usa,ford ranger
+22.0,6,225.0,100.0,3233,15.4,76,usa,plymouth valiant
+13.0,8,302.0,130.0,3870,15.0,76,usa,ford f108
